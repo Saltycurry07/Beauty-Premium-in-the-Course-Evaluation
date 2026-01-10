@@ -1,4 +1,4 @@
-# STATS201 Course Project
+# STATS 201 Course Project
 
 Liyan commit 1 
 
