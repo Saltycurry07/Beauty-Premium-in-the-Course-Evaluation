@@ -1,0 +1,322 @@
+school,department,professor,avg_rating,avg_difficulty,would_take_again_percent
+University of California Los Angeles (UCLA),Computer Science,David Smallberg,3.5,3.8000000000000003,20
+University of California Los Angeles (UCLA),Computer Science,Navid Amini,4.1000000000000005,3.4000000000000004,75
+University of California Los Angeles (UCLA),Computer Science,Polly Low,0,0,-1
+University of California Los Angeles (UCLA),Computer Science,Lixia Zhang,1,5,0
+University of California Los Angeles (UCLA),Computer Science,Richard Korf,3.3000000000000003,4.3,40
+University of California Los Angeles (UCLA),Computer Science,Paul Eggert,2.7,4.6000000000000005,20
+University of California Los Angeles (UCLA),Computer Science,Jordan Mendler,5,2.4000000000000004,100
+University of California Los Angeles (UCLA),Computer Science,Asish Law,5,4,100
+University of California Los Angeles (UCLA),Computer Science,J.A. Rohr,1.7000000000000002,4.7,100
+University of California Los Angeles (UCLA),Computer Science,Junghoo Cho,4,4,100
+University of California Los Angeles (UCLA),Computer Science,T.C Wittman,3.8000000000000003,3.4000000000000004,-1
+University of California Los Angeles (UCLA),Computer Science,Song Chun Zhu,3.5,5,-1
+University of California Los Angeles (UCLA),Computer Science,Matthew Mosley,3.5,3,-1
+University of California Los Angeles (UCLA),Computer Science,Carlo Zaniolo,0,0,-1
+University of California Los Angeles (UCLA),Computer Science,Jason Cong,0,0,-1
+University of California Los Angeles (UCLA),Computer Science,Diana Kern,0,0,-1
+University of California Los Angeles (UCLA),Computer Science,MICHAEL ANDREWS,0,0,-1
+University of California Los Angeles (UCLA),Computer Science,Stefano Soatto,0,0,-1
+University of California Los Angeles (UCLA),Computer Science,Ben Mansouri,0,0,-1
+University of California Los Angeles (UCLA),Computer Science,Fred Xu,0,0,-1
+University of California Los Angeles (UCLA),Computer Science,Eleazar Eskin,0,0,-1
+University of California Los Angeles (UCLA),Computer Science,Allen Klinger,0,0,-1
+University of California Los Angeles (UCLA),Computer Science,Tobias Duerschmid,0,0,-1
+University of California Los Angeles (UCLA),Computer Science,Sam Kumar,0,0,-1
+University of California Los Angeles (UCLA),Computer Science,Qi Zhao,0,0,-1
+University of California Los Angeles (UCLA),Computer Science,Mario Gerla,0,0,-1
+University of California Los Angeles (UCLA),Computer Science,Jialu Pu,0,0,-1
+University of California Los Angeles (UCLA),Computer Science,Jukka Virtanen,0,0,-1
+University of California Los Angeles (UCLA),Computer Science,Raghu Meka,0,0,-1
+University of California Los Angeles (UCLA),Computer Science,Amit Sahai,0,0,-1
+University of California Los Angeles (UCLA),Computer Science,Bolei Zhou,0,0,-1
+University of California Los Angeles (UCLA),Computer Science,Zimeng Ming,0,0,-1
+University of California Los Angeles (UCLA),Computer Science,"Ani Nahapetian, A",0,0,-1
+University of California Los Angeles (UCLA),Fine Arts,Monique Van Genderen,3.5,2.5,50
+University of California Los Angeles (UCLA),Fine Arts,Michael Hackett,2.9000000000000004,3.1,0
+University of California Los Angeles (UCLA),Fine Arts,Peter Sellars,4.6000000000000005,2.3000000000000003,100
+University of California Los Angeles (UCLA),Fine Arts,Mimi Lauter,2,3.5,0
+University of California Los Angeles (UCLA),Fine Arts,Marco Rios,4,2,100
+University of California Los Angeles (UCLA),Fine Arts,Suzanne Wright,4,4,100
+University of California Los Angeles (UCLA),Fine Arts,John Houck,5,2,-1
+University of California Los Angeles (UCLA),Fine Arts,Kevin Myers,4,1,-1
+University of California Los Angeles (UCLA),Fine Arts,Roger Herman,4.5,3,-1
+University of California Los Angeles (UCLA),Fine Arts,Hirsch Perlman,5,3,-1
+University of California Los Angeles (UCLA),Fine Arts,Charlie Ray,1,4,-1
+University of California Los Angeles (UCLA),Fine Arts,Robin McCauley,0,0,-1
+University of California Los Angeles (UCLA),Fine Arts,Siri Kaur,0,0,-1
+University of California Los Angeles (UCLA),Fine Arts,Jessica Williams,0,0,-1
+University of California Los Angeles (UCLA),Fine Arts,J.A. Tumlir,0,0,-1
+University of California Los Angeles (UCLA),Fine Arts,Andrea Fraser,0,0,-1
+University of California Los Angeles (UCLA),Fine Arts,Tony Fitzgerald,0,0,-1
+New York University,Computer Science,Amanda Steigman,3.5,2.9000000000000004,66.7
+New York University,Computer Science,Tobias Blickhan,2.3000000000000003,4.6000000000000005,27.3
+New York University,Computer Science,Bud Mishra,1.8,2.8000000000000003,15.8
+New York University,Computer Science,Dishita Turakhia,3.4000000000000004,3.2,54.5
+New York University,Computer Science,Yevgeniy Dodis,2.2,4.4,10
+New York University,Computer Science,Anasse Bari,4.3,3.6,80.7
+New York University,Computer Science,Alon Hillel-Tuch,5,2.7,100
+New York University,Computer Science,Karl Rosenberg,2,3.8000000000000003,25
+New York University,Computer Science,Michael Walfish,3.5,4.7,54.2
+New York University,Computer Science,Mark Ramos,5,1.8,100
+New York University,Computer Science,Matthew Zeidenberg,2.7,3.2,36.5
+New York University,Computer Science,Oded Regev,4.1000000000000005,4.1000000000000005,71.4
+New York University,Computer Science,Sumit Chopra,2.8000000000000003,4.1000000000000005,45.5
+New York University,Computer Science,Daniel Katz-Braunschweig,2.6,3.6,42.900000000000006
+New York University,Computer Science,Craig Kapp,4.800000000000001,2.8000000000000003,91
+New York University,Computer Science,Joanna Klukowska,3.3000000000000003,4.1000000000000005,55.300000000000004
+New York University,Computer Science,Jean-Claude Franchitti,3.2,3.5,60.400000000000006
+New York University,Computer Science,Ernest Davis,3.8000000000000003,3.1,71.4
+New York University,Computer Science,Pavel Izmailov,4,4,100
+New York University,Computer Science,Evan Korth,3.5,3.1,57.300000000000004
+New York University,Computer Science,Joshua Clayton,4.7,2.5,90.9
+New York University,Computer Science,Aurojit Panda,2.7,4.2,40
+New York University,Computer Science,Joe Versoza,3.4000000000000004,3.6,50
+New York University,Computer Science,Hilbert Locklear,2.9000000000000004,3.7,43.5
+New York University,Computer Science,Deena Engel,4,2.6,52.400000000000006
+New York University,Computer Science,Joseph Bonneau,4.2,4.2,84.60000000000001
+New York University,Computer Science,Benjamin Peherstorfer,3.8000000000000003,4.1000000000000005,76.9
+New York University,Computer Science,Alan Amin,3.9000000000000004,4,71.4
+New York University,Computer Science,Hubertus Franke,3.9000000000000004,3.7,72.4
+New York University,Computer Science,Parijat Dube,2.8000000000000003,4.3,37
+New York University,Computer Science,Joseph Tassarotti,5,3,100
+New York University,Computer Science,Yik-Cheung Tam,3.4000000000000004,4.3,71.4
+New York University,Computer Science,Mazdak Zamani,4.3,3.5,83.9
+New York University,Computer Science,Hasan Aljabbouli,4.4,2.9000000000000004,79.2
+New York University,Computer Science,Michael Tao,2.8000000000000003,4.4,52.900000000000006
+New York University,Computer Science,Ahmad Emad,3.1,4,44.400000000000006
+New York University,Computer Science,Sana Odeh,3.1,2.6,40.400000000000006
+New York University,Computer Science,Douglas Moody,2.7,2.8000000000000003,34.800000000000004
+New York University,Computer Science,Susan Liao,2.9000000000000004,3.8000000000000003,45.5
+New York University,Computer Science,Areeba Ikram,5,2.9000000000000004,100
+New York University,Computer Science,Sven Simikin,2.8000000000000003,5,40
+New York University,Computer Science,Benedikt Bunz,3.5,4.3,50
+New York University,Computer Science,Marshall Ball,3.4000000000000004,4.1000000000000005,72.7
+New York University,Computer Science,Rotem Oshman,2.3000000000000003,4,30
+New York University,Computer Science,Khye Borg Liew,5,3.2,100
+New York University,Computer Science,Adam Meyers,3,3.1,49
+New York University,Computer Science,Promethee Spathis,3.8000000000000003,3.5,75
+New York University,Computer Science,Daniel Zint,4,3,71.4
+New York University,Computer Science,Amos Bloomberg,3.9000000000000004,3.1,70.7
+New York University,Computer Science,Gezim Hakramaj,4,3.3000000000000003,83.30000000000001
+New York University,Computer Science,Xianbin Gu,3.3000000000000003,3.5,61.5
+New York University,Computer Science,Rumi Chunara,3.5,3.4000000000000004,83.30000000000001
+New York University,Computer Science,Davi Geiger,2.1,2.4000000000000004,30
+New York University,Computer Science,Jie Xue,1.6,4.6000000000000005,18.2
+New York University,Computer Science,Pingping Ding,2.9000000000000004,3.4000000000000004,47.1
+New York University,Computer Science,Lakshminarayanan Subramanian,1.7000000000000002,3.5,20
+New York University,Computer Science,Mandy Mandy,4.5,2.8000000000000003,100
+New York University,Computer Science,Divna Petkovic,5,2,100
+New York University,Computer Science,David Prager,2.9000000000000004,3.7,45
+New York University,Computer Science,Nir Bitansky,4,3,100
+New York University,Computer Science,Emily Zhao,4.1000000000000005,3,77.80000000000001
+New York University,Computer Science,He He,2.1,3.9000000000000004,23.1
+New York University,Computer Science,John Rofrano,5,2.8000000000000003,100
+New York University,Computer Science,Max Sklar,3.1,3.9000000000000004,50
+New York University,Computer Science,Gizem Kayar,2.7,3.3000000000000003,39.300000000000004
+New York University,Computer Science,Mohamed Zahran,4.2,3,87
+New York University,Computer Science,Cory Plock,4,3.5,75
+New York University,Computer Science,Gabriel Provencher Langlois,2.3000000000000003,3.9000000000000004,42.900000000000006
+New York University,Computer Science,Mengye Ren,5,3,100
+New York University,Computer Science,Richard Cole,4.4,3.4000000000000004,80
+New York University,Computer Science,Jiaxin Guan,4.800000000000001,3.4000000000000004,88.9
+New York University,Computer Science,Subhash Khot,4.9,2.3000000000000003,100
+New York University,Computer Science,Rachid Rebiha,5,1.5,100
+New York University,Computer Science,Chee Yap,2.1,4.4,25
+New York University,Computer Science,Shengjie Wang,4.2,3.8000000000000003,80
+New York University,Computer Science,Candido Cabo,3.4000000000000004,3.6,62.5
+New York University,Computer Science,Nader Nassar,2.1,3.8000000000000003,25
+New York University,Computer Science,Tim Rudner,5,3,100
+New York University,Computer Science,Brenden Lake,1.5,2.5,0
+New York University,Computer Science,Lihua Xu,3.3000000000000003,3.1,50
+New York University,Computer Science,Mehryar Mohri,4.2,3.8000000000000003,72.7
+New York University,Computer Science,Waqar Aqeel,5,3,100
+New York University,Computer Science,Alan Siegel,2.7,4.2,35
+New York University,Computer Science,Alvaro Olsen,4.7,1.7000000000000002,90.9
+New York University,Computer Science,Zhibin Chen,5,2.8000000000000003,100
+New York University,Computer Science,Ben Goldberg,4.7,3.1,89.7
+New York University,Computer Science,Yang Tang,4.800000000000001,3.7,93.5
+New York University,Computer Science,Nathan Miranda,4.4,3.3000000000000003,85.7
+New York University,Computer Science,Adam Scher,3.8000000000000003,2.2,66.7
+New York University,Computer Science,Mitchell Haviv,5,2,100
+New York University,Computer Science,Julie Lizardo,4,3.3000000000000003,75
+New York University,Computer Science,Paul-Andre Mellies,5,2.3000000000000003,100
+New York University,Computer Science,Mihir Patil,3.7,4,63.6
+New York University,Computer Science,Anna Choromanska,5,3,100
+New York University,Computer Science,Constantine Christakos,4.7,2.7,83.30000000000001
+New York University,Computer Science,Anirudh Sivaraman,4.6000000000000005,2.7,88.9
+New York University,Computer Science,Gabriel Langlois,2.3000000000000003,3.8000000000000003,50
+New York University,Computer Science,I-Hsin Chung,3,4,50
+New York University,Computer Science,Lerrel Pinto,4,3,66.7
+New York University,Computer Science,Teseo Schneider,3,2.8000000000000003,41.7
+New York University,Computer Science,Olivier Marin,4.1000000000000005,3.5,87.5
+New York University,Computer Science,Daniele Panozzo,4.4,4.2,77.80000000000001
+New York University,Computer Science,Arsalan Anwar,5,3,100
+New York University,Computer Science,Allan Gottlieb,2.4000000000000004,2.8000000000000003,34.5
+New York University,Computer Science,Daniel Simon,1,4.6000000000000005,0
+New York University,Computer Science,Chris Geeng,1,3,0
+New York University,Computer Science,Ann Malavet,2.6,3.1,41.2
+New York University,Computer Science,Joel Spencer,3.8000000000000003,3.1,75
+New York University,Computer Science,Mihalis Maniatakos,3,5,0
+New York University,Computer Science,Adam Myers,3.7,3,50
+New York University,Computer Science,Yici Zhang,5,2,100
+New York University,Computer Science,Charles Condon,5,2,100
+New York University,Computer Science,Na'im Tyson,1.8,3.8000000000000003,7.7
+New York University,Computer Science,Kenneth Perlin,3.2,3.6,58.300000000000004
+New York University,Computer Science,Duygu Ataman,2.8000000000000003,3.1,50
+New York University,Computer Science,Seyed Nassajianmojarrad,4.3,2.5,71.4
+New York University,Computer Science,Michael Kadri,2.9000000000000004,3.7,33.300000000000004
+New York University,Computer Science,Paul Bethe,1.4000000000000001,3.1,0
+New York University,Computer Science,Raman Kannan,2.7,2.5,40
+New York University,Computer Science,Mauricio Arias Hernandez,1.8,4.1000000000000005,11.100000000000001
+New York University,Computer Science,Zoe Robert,5,1,100
+New York University,Computer Science,Thomas Wies,4.5,3.5,90.9
+New York University,Computer Science,Michell Cardona,2.6,3.4000000000000004,38.5
+New York University,Computer Science,Jinyang LI,3.1,4.5,46.400000000000006
+New York University,Computer Science,Saadia Lgarch,3.1,2.8000000000000003,57.1
+New York University,Computer Science,Patrick Cousot,4.1000000000000005,3.6,100
+New York University,Computer Science,Rajesh Ranganath,4.2,4.6000000000000005,80
+New York University,Computer Science,Zvi Kedem,2.4000000000000004,3.2,28
+New York University,Computer Science,Peter Morales,5,3,100
+New York University,Computer Science,Edward Yang,3.7,5,33.300000000000004
+New York University,Computer Science,Shaheer Haroon,5,3,100
+New York University,Computer Science,Yann Lecun,2,3.8000000000000003,33.300000000000004
+New York University,Computer Science,Seyed Mojarrad,1,5,0
+New York University,Computer Science,Dakota Hernandez,4.9,2.5,91.7
+New York University,Computer Science,Alexander Alekseyev,5,2.9000000000000004,100
+New York University,Computer Science,Abhinav Tamaskar,2.5,1.5,50
+New York University,Computer Science,Sofya Yuditskaya,3.7,1.7000000000000002,66.7
+New York University,Computer Science,Rob Fergus,3.6,3.6,80
+New York University,Computer Science,Gus Xia,4.3,4.3,66.7
+New York University,Computer Science,Yasir Zaki,3,4,0
+New York University,Computer Science,Young Ko,2.5,3.9000000000000004,36.4
+New York University,Computer Science,Victor Shoup,3.5,4.2,67.4
+New York University,Computer Science,Hanan Salam,5,2,100
+New York University,Computer Science,Jason Aston,4.800000000000001,2.3000000000000003,100
+New York University,Computer Science,Ulrich Finkler,1,4,0
+New York University,Computer Science,Zhijie Chen,1,3,0
+New York University,Computer Science,David Gochfeld,3.6,4.1000000000000005,60
+New York University,Computer Science,Dennis Shasha,4,2.7,73.3
+New York University,Computer Science,Margaret Wright,3,3,0
+New York University,Computer Science,Sean Welleck,5,5,100
+New York University,Computer Science,Yuanzhe Pang,5,5,100
+New York University,Computer Science,Senada Ka,5,5,100
+New York University,Computer Science,Richard Hull,1.5,5,0
+New York University,Computer Science,Bader Oudjehane,1.2000000000000002,2.7,0
+New York University,Computer Science,Lee Sean Huang,4.5,2.2,87.5
+New York University,Computer Science,Yan Shvartzshnaider,2.1,3.7,37.5
+New York University,Computer Science,Ralph Grishman,2.8000000000000003,2.8000000000000003,60
+New York University,Computer Science,Siyao Guo,5,4,100
+New York University,Computer Science,Thitima Srivatanakul,3.9000000000000004,3.9000000000000004,71.4
+New York University,Computer Science,Shuai Mu,4,2,100
+New York University,Computer Science,Yoav Zibin,2.8000000000000003,4,50
+New York University,Computer Science,Yiannis Tselekounis,5,2,100
+New York University,Computer Science,Seetharami Seelam,1,4,0
+New York University,Computer Science,Yair Sovran,5,2,100
+New York University,Computer Science,Shameem Akther,1,3,0
+New York University,Computer Science,Gleb Pogudin,2.6,4.5,40
+New York University,Computer Science,Amir Shpilka,3.7,4,33.300000000000004
+New York University,Computer Science,Brett Peterson,4,3.4000000000000004,81.80000000000001
+New York University,Computer Science,Robyn Peterson,5,4,100
+New York University,Computer Science,Bowen Yu,5,5,50
+New York University,Computer Science,Marsha Berger,2.9000000000000004,3.4000000000000004,50
+New York University,Computer Science,Jerry Waxman,2.8000000000000003,2.8000000000000003,25
+New York University,Computer Science,Romeo Kumar,5,1,100
+New York University,Computer Science,John Zhang,3,5,100
+New York University,Computer Science,Priyanka Suresh,5,5,100
+New York University,Computer Science,Nan Cao,1,4,0
+New York University,Computer Science,Syed Salahuddin,3.2,2.2,0
+New York University,Computer Science,David Sontag,2.6,4.6000000000000005,75
+New York University,Computer Science,Michael Schidlowsky,3,2,50
+New York University,Computer Science,Brett Bernstein,5,4,100
+New York University,Computer Science,Igor Shinkar,4.3,2.8000000000000003,-1
+New York University,Computer Science,Eric Hielscher,4.1000000000000005,3,-1
+New York University,Computer Science,Scott Burton,1,4.5,-1
+New York University,Computer Science,greg Watson,1.5,3,-1
+New York University,Computer Science,Jeffrey Korn,3.4000000000000004,4,-1
+New York University,Computer Science,Daniel Schwartz-Narbonne,4.5,3,-1
+New York University,Computer Science,Tim Mitchell,1.8,4.7,-1
+New York University,Computer Science,Samuel Marateck,3.3000000000000003,2.6,-1
+New York University,Computer Science,Christoph Bregler,3.8000000000000003,3.5,-1
+New York University,Computer Science,Clark Barrett,4.3,2.5,-1
+New York University,Computer Science,Robert Grimm,4,5,-1
+New York University,Computer Science,Joel Kemp,5,1.5,-1
+New York University,Computer Science,Edmond Schonberg,4,3.5,-1
+New York University,Computer Science,Alberto Lerner,4,4,-1
+New York University,Computer Science,Vasilis Gkatzelis,5,3,-1
+New York University,Computer Science,Meretzky Mark,3.5,2.7,-1
+New York University,Computer Science,Eric Koskinen,1.5,5,-1
+New York University,Computer Science,Andrew Case,2.5,4,-1
+New York University,Computer Science,Fida Dankar,0,0,-1
+New York University,Computer Science,Lydia Wong,0,0,-1
+New York University,Computer Science,Vladimir Podolskii,0,0,-1
+New York University,Computer Science,Kevin Chen,0,0,-1
+New York University,Computer Science,Stanislav Sobolevsky,0,0,-1
+New York University,Computer Science,Shrek Aaloodish,0,0,-1
+New York University,Computer Science,Jack Wu,0,0,-1
+New York University,Computer Science,Eran Fishler,0,0,-1
+New York University,Computer Science,Chad Coleman,0,0,-1
+New York University,Computer Science,Saining Xie,0,0,-1
+New York University,Computer Science,Andrew Quijano,0,0,-1
+New York University,Computer Science,Christina Pöpper,0,0,-1
+New York University,Computer Science,Gisem Kayar,0,0,-1
+New York University,Computer Science,Gize Kayar,0,0,-1
+New York University,Computer Science,Juan Rodriguez Estrada,0,0,-1
+New York University,Computer Science,Kevin Nelson,0,0,-1
+New York University,Computer Science,Godfried Toussaint,0,0,-1
+New York University,Computer Science,Nadim Kobeissi,0,0,-1
+New York University,Computer Science,Hongyi Wen,0,0,-1
+New York University,Computer Science,Mengye Ren,0,0,-1
+New York University,Computer Science,Ozgur Sinanoglu,0,0,-1
+New York University,Computer Science,Robert Pahle,0,0,-1
+New York University,Computer Science,Gennaidy Civil,0,0,-1
+New York University,Computer Science,Seth Rosen,0,0,-1
+New York University,Computer Science,RAJESH MADAN,0,0,-1
+New York University,Computer Science,Sanya Shekaran,0,0,-1
+New York University,Computer Science,Jiri Motejlek,0,0,-1
+New York University,Computer Science,Jocelyn Chen,0,0,-1
+New York University,Computer Science,Julia Stoyanovich,0,0,-1
+New York University,Computer Science,Brian Hall,0,0,-1
+New York University,Computer Science,Guyue Liu,0,0,-1
+New York University,Computer Science,Abraham Rubenstein,0,0,-1
+New York University,Computer Science,Tai Yin HO,0,0,-1
+New York University,Computer Science,Ellen Nickles,0,0,-1
+New York University,Computer Science,Ayesha Kiani,0,0,-1
+New York University,Computer Science,Damoulas Theo,0,0,-1
+New York University,Computer Science,João Paulo Fernandes,0,0,-1
+New York University,Computer Science,Sicheng Song,0,0,-1
+New York University,Computer Science,Tin Luu,0,0,-1
+New York University,Fine Arts,Mosette Broderick,3.4000000000000004,3.6,46.400000000000006
+New York University,Fine Arts,Ksenia Soboleva,3,3,0
+New York University,Fine Arts,Jon Ritter,4.3,3.6,88
+New York University,Fine Arts,David Darts,5,1,100
+New York University,Fine Arts,Mark Jenkinson,4.4,2.7,100
+New York University,Fine Arts,Raj Trivedi,4.5,2.9000000000000004,87.5
+New York University,Fine Arts,Catherine Quan Damman,3,3.8000000000000003,25
+New York University,Fine Arts,Pepe Karmel,4.1000000000000005,3,81.80000000000001
+New York University,Fine Arts,Clare Dolan,2,2,0
+New York University,Fine Arts,Lee Summers,5,3,100
+New York University,Fine Arts,Jonathan Hay,3.5,4,75
+New York University,Fine Arts,Kathleen DeRose,3,2,100
+New York University,Fine Arts,Zeppelin Dufour,5,2,100
+New York University,Fine Arts,Carol Krinsky,3.2,4.4,48.300000000000004
+New York University,Fine Arts,Kenneth Silver,3.9000000000000004,3.4000000000000004,60
+New York University,Fine Arts,Dave Hardy,5,2.5,100
+New York University,Fine Arts,Mary Bitel,3.6,1.8,66.7
+New York University,Fine Arts,Tony Nardi,1,4,0
+New York University,Fine Arts,Shelly Rice,4.1000000000000005,2.5,100
+New York University,Fine Arts,Bella Mirabella,4,3.1,75
+New York University,Fine Arts,Tom Igoe,3.2,3.4000000000000004,-1
+New York University,Fine Arts,Gunter Kopcke,4.800000000000001,3,-1
+New York University,Fine Arts,Lyle Harris,0,0,-1
+New York University,Fine Arts,Ashley Teague,0,0,-1
+New York University,Fine Arts,Sharyn Rothstein,0,0,-1
+New York University,Fine Arts,Rebecca Watson-Horn,0,0,-1
+New York University,Fine Arts,Judi Lewis Ockler,0,0,-1
+New York University,Fine Arts,Rebecca Haimowitz,0,0,-1
+New York University,Fine Arts,Robert Maxwell,0,0,-1
+New York University,Fine Arts,Kristian Maurrase,0,0,-1
+New York University,Fine Arts,Shiro Burnette,0,0,-1
+New York University,Fine Arts,Katherine Fisher,0,0,-1
+New York University,Fine Arts,Robert Stam,0,0,-1
+New York University,Fine Arts,Noel Anderson,0,0,-1
