@@ -4,11 +4,7 @@ Authors: Kuang Sheng & Liyan Wang
 
 ## RateMyProfessors Crawler
 
-This repository includes a small crawler script that fetches professor ratings for UCLA and NYU (Computer Science and Fine Arts) from RateMyProfessors and writes them to a CSV file.
-
-```bash
-python rmp_crawler.py --output rmp_ucla_nyu_professors.csv
-```
+This repository includes a crawler script that fetches professor ratings for UCLA and NYU (Computer Science and Fine Arts) from RateMyProfessors and writes them to a CSV file.
 
 ## Faculty Photo Data
 
