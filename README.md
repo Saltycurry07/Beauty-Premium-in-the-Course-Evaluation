@@ -1,8 +1,6 @@
-# STATS 201 Course Project
+# STATS 201 Course Project: Good Looking, Good Rating? Beauty Premium in the Course Evaluation
 
-Liyan commit 1 
-
-Kuang commit 2
+Authors: Kuang Sheng & Liyan Wang
 
 ## RateMyProfessors Crawler
 
