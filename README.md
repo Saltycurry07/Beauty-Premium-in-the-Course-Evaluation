@@ -1,6 +1,8 @@
 # Good Looking, Good Rating? Beauty Premium in the Course Evaluation
 
-Authors: Kuang Sheng & Liyan Wang
+### Authors: Kuang Sheng & Liyan Wang
+
+### Instructor: Markus Neumann
 
   Do physically attractive professors receive more favorable student evaluations? 
   
