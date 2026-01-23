@@ -48,3 +48,37 @@ Please refer to the latest version of data through this link: https://github.com
 ## Data of Faculty Photo
 
 Please refer to the latest version of data through this link: https://drive.google.com/drive/folders/1rZJVfmevApVX-XWipRbNk7OwWT1ggDXz?usp=sharing
+
+## SCUT-FBP5500 Beauty Score Inference (CSV)
+
+This repo includes a script that loads the pretrained SCUT-FBP5500 PyTorch models and appends a `beauty_score` column to a CSV containing image paths.
+
+### 1) Download the pretrained model
+
+From the official SCUT-FBP5500 release: https://github.com/HCIILAB/SCUT-FBP5500-Database-Release
+
+- Download the **PyTorch** trained models archive and extract it locally.
+- Choose one of the `.pth` files, such as `alexnet.pth` or `resnet18.pth`.
+
+### 2) Prepare your CSV
+
+Your CSV should include a column with image paths. For example:
+
+```csv
+name,image_path
+Professor A,/path/to/image_a.jpg
+Professor B,/path/to/image_b.jpg
+```
+
+### 3) Run inference
+
+```bash
+python beauty_score_from_csv.py \
+  --input-csv professors.csv \
+  --image-column image_path \
+  --model-arch alexnet \
+  --weights /path/to/alexnet.pth \
+  --output-csv professors_with_scores.csv
+```
+
+If images are relative paths, they will be resolved relative to the CSV file location. Any failures are logged to an `_errors.txt` file alongside the output CSV.
