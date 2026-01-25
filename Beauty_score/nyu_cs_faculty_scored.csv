@@ -1,0 +1,123 @@
+name,local_path,pred_score_raw,pred_score_1_5
+Boris Aronov,Boris_Aronov.jpg,25.044771194458008,5.0
+Ainesh Bakshi,Ainesh_Bakshi.jpg,22.94867515563965,5.0
+Marshall Ball,Marshall_Ball.jpg,18.997844696044922,5.0
+Rosanna Bellini,Rosanna_Bellini.png,41.613372802734375,5.0
+Juan Pablo Bello,Juan_Pablo_Bello.png,22.751537322998047,5.0
+Aaron Bernstein,Aaron_Bernstein.jpg,23.728763580322266,5.0
+Nir Bitansky,Nir_Bitansky.png,31.206016540527344,5.0
+Emily Black,Emily_Black.jpg,25.314939498901367,5.0
+Joseph Bonneau,Joseph_Bonneau.jpg,16.48311996459961,5.0
+Samuel Bowman,Samuel_Bowman.jpg,50.13172912597656,5.0
+Joan Bruna,Joan_Bruna.jpg,16.004804611206055,5.0
+Benedikt Bünz,Benedikt_B_nz.png,29.3604736328125,5.0
+Justin Cappos,Justin_Cappos.jpg,34.487789154052734,5.0
+Yi-Jen Chiang,Yi-Jen_Chiang.jpg,18.676788330078125,5.0
+Kyunghyun Cho,Kyunghyun_Cho.jpg,13.665484428405762,5.0
+Eunsol Choi,Eunsol_Choi.jpg,56.74103927612305,5.0
+Sumit Chopra,Sumit_Chopra.jpg,24.31583023071289,5.0
+Rumi Chunara,Rumi_Chunara.png,28.5113582611084,5.0
+Patrick Cousot,Patrick_Cousot.jpg,11.477355003356934,5.0
+Thibault Dardinier,Thibault_Dardinier.jpeg,14.121818542480469,5.0
+Ernest Davis,Ernest_Davis.jpg,18.48202133178711,5.0
+Juan de Pablo,Juan_de_Pablo.jpg,19.350177764892578,5.0
+Yevgeniy Dodis,Yevgeniy_Dodis.jpg,13.29360294342041,5.0
+Greg Durrett,Greg_Durrett.png,32.42063903808594,5.0
+Martin Farach-Colton,Martin_Farach-Colton.jpg,17.66736602783203,5.0
+Rob Fergus,Rob_Fergus.jpg,16.113332748413086,5.0
+David Fouhey,David_Fouhey.jpg,20.03159523010254,5.0
+Juliana Freire,Juliana_Freire.jpg,18.510475158691406,5.0
+Davi Geiger,Davi_Geiger.jpg,19.047889709472656,5.0
+Benjamin Goldberg,Benjamin_Goldberg.jpg,18.326433181762695,5.0
+Rachel Greenstadt,Rachel_Greenstadt.jpg,21.790985107421875,5.0
+Anupam Gupta,Anupam_Gupta.jpeg,39.66347122192383,5.0
+unknown_33,unknown_33.jpg,55.0682487487793,5.0
+He He,He_He.jpg,15.812235832214355,5.0
+Chinmay Hegde,Chinmay_Hegde.jpg,28.109661102294922,5.0
+Lisa Hellerstein,Lisa_Hellerstein.jpg,26.45557403564453,5.0
+Pavel Izmailov,Pavel_Izmailov.jpeg,29.18268585205078,5.0
+unknown_38,unknown_38.jpeg,27.622312545776367,5.0
+Gautam Kamath,Gautam_Kamath.jpg,23.059764862060547,5.0
+Julia Kempe,Julia_Kempe.jpg,18.01519012451172,5.0
+Sanjeev Khanna,Sanjeev_Khanna.jpg,18.94084930419922,5.0
+Subhash Khot,Subhash_Khot.jpg,19.823421478271484,5.0
+Robert Krueger,Robert_Krueger.jpg,23.05217170715332,5.0
+Yann LeCun,Yann_LeCun.jpg,13.714365005493164,5.0
+Jinyang Li,Jinyang_Li.jpg,19.656925201416016,5.0
+Allen Liu,Allen_Liu.jpg,30.868864059448242,5.0
+Romain Lopez,Romain_Lopez.jpg,25.413379669189453,5.0
+Fermi Ma,Fermi_Ma.png,34.432945251464844,5.0
+Damon McCoy,Damon_McCoy.jpg,18.079544067382812,5.0
+Nasir Memon,Nasir_Memon.jpg,27.849353790283203,5.0
+Bhubaneswar Mishra,Bhubaneswar_Mishra.jpg,12.223730087280273,5.0
+Mehryar Mohri,Mehryar_Mohri.jpg,18.470064163208008,5.0
+Christopher Musco,Christopher_Musco.jpeg,32.445987701416016,5.0
+Michael Overton,Michael_Overton.jpg,24.849658966064453,5.0
+Aurojit Panda,Aurojit_Panda.jpg,15.130729675292969,5.0
+Daniele Panozzo,Daniele_Panozzo.jpg,18.114965438842773,5.0
+Sunoo Park,Sunoo_Park.jpg,18.57383155822754,5.0
+Benjamin Peherstorfer,Benjamin_Peherstorfer.jpg,16.84031105041504,5.0
+Juan Perdomo Silva,Juan_Perdomo_Silva.jpg,16.10555648803711,5.0
+Kenneth Perlin,Kenneth_Perlin.jpg,13.765979766845703,5.0
+Lerrel Pinto,Lerrel_Pinto.jpg,39.6236572265625,5.0
+Rajesh Ranganath,Rajesh_Ranganath.jpg,15.652983665466309,5.0
+Theodore Rappaport,Theodore_Rappaport.jpg,13.889355659484863,5.0
+Oded Regev,Oded_Regev.jpg,19.951396942138672,5.0
+Mengye Ren,Mengye_Ren.jpg,58.3589973449707,5.0
+Benjamin Riviere,Benjamin_Riviere.jpg,35.762943267822266,5.0
+Florian Schaefer,Florian_Schaefer.webp,32.45213317871094,5.0
+Pratyusha Sharma,Pratyusha_Sharma.jpg,22.941913604736328,5.0
+Dennis Shasha,Dennis_Shasha.jpg,15.357328414916992,5.0
+Alan Siegel,Alan_Siegel.jpg,20.12525749206543,5.0
+Claudio Silva,Claudio_Silva.jpg,26.864280700683594,5.0
+Anirudh Sivaraman,Anirudh_Sivaraman.jpg,19.618194580078125,5.0
+Julia Stoyanovich,Julia_Stoyanovich.jpg,30.12969970703125,5.0
+Lakshminarayanan Subramanian,Lakshminarayanan_Subramanian.jpg,18.845890045166016,5.0
+Torsten Suel,Torsten_Suel.jpg,19.421794891357422,5.0
+Qi Sun,Qi_Sun.jpg,23.036590576171875,5.0
+Joseph Tassarotti,Joseph_Tassarotti.jpg,15.39595890045166,5.0
+Matus Telgarsky,Matus_Telgarsky.png,25.068992614746094,5.0
+Julian Togelius,Julian_Togelius.png,27.04481315612793,5.0
+Paul Torrens,Paul_Torrens.png,18.795934677124023,5.0
+Erdem Varol,Erdem_Varol.png,40.13420486450195,5.0
+Michael Walfish,Michael_Walfish.jpg,19.122875213623047,5.0
+Sam Westrick,Sam_Westrick.jpg,38.82510757446289,5.0
+Thomas Wies,Thomas_Wies.jpg,18.604347229003906,5.0
+Andrew Gordon Wilson,Andrew_Gordon_Wilson.jpeg,19.139551162719727,5.0
+Ed K Wong,Ed_K_Wong.jpg,18.546354293823242,5.0
+Saining Xie,Saining_Xie.jpeg,32.08128356933594,5.0
+Sherry Yang,Sherry_Yang.jpeg,27.9416446685791,5.0
+Chee Yap,Chee_Yap.jpg,15.690298080444336,5.0
+Sai Qian Zhang,Sai_Qian_Zhang.png,23.103675842285156,5.0
+Denis Zorin,Denis_Zorin.jpg,19.06026840209961,5.0
+Nadav Brandes,Nadav_Brandes.jpg,26.184804916381836,5.0
+Semiha Ergan,Semiha_Ergan.png,47.31053161621094,5.0
+Chen Feng,Chen_Feng.jpg,36.037410736083984,5.0
+Magdalena Fuentes,Magdalena_Fuentes.png,22.576324462890625,5.0
+Siddharth Garg,Siddharth_Garg.png,43.760719299316406,5.0
+Leslie Greengard,Leslie_Greengard.jpg,29.04366683959961,5.0
+Yanjun Han,Yanjun_Han.jpg,25.7802734375,5.0
+Mark Ho,Mark_Ho.png,27.5269775390625,5.0
+Danny Yuxing Huang,Danny_Yuxing_Huang.png,25.7733154296875,5.0
+Zhong-Ping Jiang,Zhong-Ping_Jiang.jpg,31.481191635131836,5.0
+unknown_102,unknown_102.png,30.741050720214844,5.0
+Qi Lei,Qi_Lei.jpg,26.868148803710938,5.0
+Marcelo Mattar,Marcelo_Mattar.png,26.107240676879883,5.0
+Daniel B Neill,Daniel_B_Neill.png,52.15065002441406,5.0
+Oded Nov,Oded_Nov.png,31.55065155029297,5.0
+Akbar Rafiey,Akbar_Rafiey.jpg,30.838747024536133,5.0
+Brandon Reagen,Brandon_Reagen.jpg,25.517471313476562,5.0
+Ludovic Righetti,Ludovic_Righetti.png,36.054473876953125,5.0
+Keith Ross,Keith_Ross.jpg,22.15955352783203,5.0
+Tamar Schlick,Tamar_Schlick.jpg,35.78794860839844,5.0
+Liat Shenhav,Liat_Shenhav.jpg,26.865196228027344,5.0
+Sandra Siby,Sandra_Siby.jpg,16.406024932861328,5.0
+Georg Stadler,Georg_Stadler.png,26.084814071655273,5.0
+Hao Su,Hao_Su.png,22.87755584716797,5.0
+unknown_116,unknown_116.png,26.526660919189453,5.0
+Eugene Vinitsky,Eugene_Vinitsky.png,25.76776885986328,5.0
+Shengjie Wang,Shengjie_Wang.png,21.819908142089844,5.0
+Hongyi Wen,Hongyi_Wen.png,17.610519409179688,5.0
+Jie Xue,Jie_Xue.png,19.485210418701172,5.0
+Chen Zhao,Chen_Zhao.png,43.47376251220703,5.0
+Zhengyuan Zhou,Zhengyuan_Zhou.png,31.18105697631836,5.0
