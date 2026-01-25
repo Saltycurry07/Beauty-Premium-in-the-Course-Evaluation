@@ -19,9 +19,7 @@
   - Train predictive models (logistic regression; gradient-boosted trees such as XGBoost)
   - Evaluate model performance (e.g., MAE/RMSE/AUC; cross-validation as needed)
   - Draft the report and visualize key results
-- **Tasks completed this week**
-  - Proposed the research question and identified feasible data sources, scraping tools, and a facial beauty prediction model
-  - Collected faculty photos from the NYU and UCLA computer science department websites
+
 
 ### Liyan Wang
 - **Primary responsibilities**
@@ -29,10 +27,6 @@
   - Apply the pre-trained deep-learning model to generate professors’ beauty scores
   - Train baseline predictive models (linear regression with/without regularization)
   - Draft the report and visualize key results
-- **Tasks completed this week**
-  - Collected RMP data for NYU and UCLA to validate the feasibility of the data pipeline
-  - Produced descriptive-statistics plots to summarize the pilot dataset
-
 
 ## RateMyProfessors Crawler
 
