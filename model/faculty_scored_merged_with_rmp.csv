@@ -1,0 +1,656 @@
+﻿name,school_name,local_path,beauty_raw,status,beauty_1to5,department,avg_rating,avg_difficulty,would_take_again_percent
+Sam Kumar,UCLA,Sam Kumar.png,29.32569885,ok,2.155786904,Computer Science,0.0,0.0,-1.0
+Joseph Peterson,UCLA,Joseph Peterson.png,33.91812515,ok,2.720993195,Engineering,0.0,0.0,-1.0
+Bolei Zhou,UCLA,Bolei Zhou.png,31.17520905,ok,2.383412722,Computer Science,0.0,0.0,-1.0
+Sergio Carbajo,UCLA,Sergio Carbajo.png,36.42792892,ok,3.0298837,Engineering,5.0,3.5,100.0
+Sriram Narasimhan,UCLA,Sriram Narasimhan.png,29.34477234,ok,2.158134346,Engineering,0.0,0.0,-1.0
+Christopher Lynch,UCLA,Christopher Lynch.jpg,27.3239975,ok,1.909430376,Engineering,0.0,0.0,-1.0
+Amiya Chatterjee,UCLA,Amiya Chatterjee.jpg,30.95423508,ok,2.356216668,Engineering,3.0,2.3000000000000003,-1.0
+John Wallace,UCLA,John Wallace.jpg,29.58679581,ok,2.187921038,Engineering,5.0,3.0,100.0
+Henry Burton,UCLA,Henry Burton.jpg,34.20108414,ok,2.755817966,Engineering,0.0,0.0,-1.0
+Yousef Bozorgnia,UCLA,Yousef Bozorgnia.jpg,32.38372421,ok,2.532148996,Engineering,3.0,3.5,50.0
+Selim Senkan,UCLA,Selim Senkan.jpg,27.92486572,ok,1.983381372,Engineering,2.2,3.1,-1.0
+Samanvaya Srivastava,UCLA,Samanvaya Srivastava.jpg,27.97683525,ok,1.989777448,Engineering,1.0,4.0,0.0
+Vasilios Manousiouthakis,UCLA,Vasilios Manousiouthakis.jpg,32.31998062,ok,2.524303845,Engineering,2.5,5.0,-1.0
+Panagiotis Christofides,UCLA,Panagiotis Christofides.jpg,24.43902588,ok,1.554366625,Engineering,5.0,1.5,100.0
+Ya-Hong Xie,UCLA,Ya-Hong Xie.jpg,25.45750046,ok,1.679713925,Engineering,0.0,0.0,-1.0
+Gaurav Sant,UCLA,Gaurav Sant.png,20.7285614,ok,1.097706523,Engineering,1.0,1.0,0.0
+Lixia Zhang,UCLA,Lixia Zhang.png,30.84449005,ok,2.342709956,Computer Science,1.0,5.0,0.0
+Carlo Zaniolo,UCLA,Carlo Zaniolo.png,46.45793533,ok,4.264312376,Computer Science,0.0,0.0,-1.0
+Wei Wang,UCLA,Wei Wang.png,27.21080589,ok,1.895499481,Engineering,1.5,4.0,0.0
+Stefano Soatto,UCLA,Stefano Soatto.jpg,30.87555313,ok,2.346533,Computer Science,0.0,0.0,-1.0
+David Smallberg,UCLA,David Smallberg.png,25.20279312,ok,1.648366185,Computer Science,3.5,3.8,20.0
+Amit Sahai,UCLA,Amit Sahai.jpg,20.55824661,ok,1.076745274,Computer Science,0.0,0.0,-1.0
+Raghu Meka,UCLA,Raghu Meka.png,40.15042877,ok,3.488025038,Computer Science,0.0,0.0,-1.0
+Richard Korf,UCLA,Richard Korf.jpg,21.75878716,ok,1.224500082,Computer Science,3.3000000000000003,4.3,40.0
+Allen Klinger,UCLA,Allen Klinger.png,41.43574524,ok,3.646213522,Computer Science,0.0,0.0,-1.0
+Eleazar Eskin,UCLA,Eleazar Eskin.png,30.345541,ok,2.281302516,Computer Science,0.0,0.0,-1.0
+Paul Eggert,UCLA,Paul Eggert.jpg,30.52239418,ok,2.303068468,Computer Science,2.7,4.6000000000000005,20.0
+Jason (Jingsheng) Cong,UCLA,Jason (Jingsheng) Cong.jpg,28.15062714,ok,2.011166635,Computer Science,0.0,0.0,-1.0
+Owen Smith,UCLA,Owen Smith.jpg,23.08016586,ok,1.387126874,Engineering,0.0,0.0,-1.0
+Richard Wirz,UCLA,Richard Wirz.jpg,36.1146431,ok,2.991326495,Engineering,4.0,4.0,100.0
+Shervin Moloudi,UCLA,Shervin Moloudi.jpg,34.37991714,ok,2.777827583,Engineering,0.0,0.0,-1.0
+Kung Yao,UCLA,Kung Yao.jpg,25.97452164,ok,1.743345567,Engineering,4.7,4.0,100.0
+Kang Wang,UCLA,Kang Wang.jpg,44.27095795,ok,3.995153266,Engineering,0.0,0.0,-1.0
+Mani Srivastava,UCLA,Mani Srivastava.png,32.1697464,ok,2.505813983,Engineering,2.3000000000000003,4.0,-1.0
+Vwani Roychowdhury,UCLA,Vwani Roychowdhury.jpg,49.1378746,ok,4.594142064,Engineering,0.0,0.0,-1.0
+Behzad Razavi,UCLA,Behzad Razavi.jpg,24.90087509,ok,1.611208056,Engineering,5.0,2.6,100.0
+Ankur Mehta,UCLA,Ankur Mehta.png,29.12662506,ok,2.131286182,Engineering,2.0,4.5,25.0
+Lara Dolecek,UCLA,Lara Dolecek.jpg,28.75080872,ok,2.085033123,Engineering,0.0,0.0,-1.0
+Suhas Diggavi,UCLA,Suhas Diggavi.jpg,20.49333954,ok,1.068756929,Engineering,0.0,0.0,-1.0
+Babak Daneshrad,UCLA,Babak Daneshrad.jpg,28.09856033,ok,2.004758588,Engineering,4.1000000000000005,3.3000000000000003,100.0
+Danijela Cabric,UCLA,Danijela Cabric.jpg,26.58561707,ok,1.818555262,Engineering,3.5,2.0,-1.0
+Pirouz Kavehpour,UCLA,Pirouz Kavehpour.jpg,25.61355019,ok,1.698919522,Engineering,2.3000000000000003,2.7,-1.0
+Bahram Jalali,UCLA,Bahram Jalali.png,36.94953918,ok,3.094080136,Engineering,0.0,0.0,-1.0
+Tzung Hsiai,UCLA,Tzung Hsiai.jpg,31.82702255,ok,2.463633736,Engineering,0.0,0.0,-1.0
+Benjamin Wu,UCLA,Benjamin Wu.jpg,30.16314316,ok,2.258854162,Engineering,0.0,0.0,-1.0
+Daniel Kamei,UCLA,Daniel Kamei.jpg,36.32091904,ok,3.016713611,Engineering,0.0,0.0,-1.0
+Dino Di Carlo,UCLA,Dino Di Carlo.jpg,26.93009758,ok,1.860951708,Engineering,1.0,1.0,0.0
+Ali Abbas,USC,Ali Abbas.jpg,34.08721161,ok,1.719449082,Engineering,4.3,2.9000000000000004,81.80000000000001
+Inna Abramova,USC,Inna Abramova.png,63.75718307,ok,3.122220603,Engineering,3.5,3.5,52.2
+Backer Abu-Jaradeh,USC,Backer Abu-Jaradeh.png,103.4740295,ok,5.0,Engineering,2.7,5.0,33.300000000000004
+Victor Adamchik,USC,Victor Adamchik.jpg,32.95451736,ok,1.665896243,Computer Science,2.2,3.9,27.1
+Leonard M Adleman,USC,Leonard M Adleman.jpg,28.80939865,ok,1.469918485,Computer Science,3.2,3.3000000000000003,50.0
+Virgil Adumitroaie,USC,Virgil Adumitroaie.jpg,27.07130814,ok,1.387743014,Engineering,3.5,3.2,100.0
+Kristof Aldenderfer,USC,Kristof Aldenderfer.jpg,65.20684052,ok,3.190759199,Computer Science,4.3,2.6,84.2
+Allen Almasi,USC,Allen Almasi.png,43.80157852,ok,2.178736253,Computer Science,4.5,1.5,90.0
+Murali Annavaram,USC,Murali Annavaram.jpg,25.6674881,ok,1.321371573,Engineering,4.5,3.9,81.30000000000001
+Robert Antypas,USC,Robert Antypas.png,103.4740295,ok,5.0,Engineering,5.0,5.0,100.0
+Michael A. Arbib,USC,Michael A. Arbib.jpg,28.67333984,ok,1.463485738,Computer Science,2.8000000000000003,4.3,-1.0
+Yigal Arens,USC,Yigal Arens.jpg,34.17201614,ok,1.72345857,Industrial & Systems Engineering,5.0,2.0,100.0
+Fariba Ariaei,USC,Fariba Ariaei.png,21.49013329,ok,1.123869719,Engineering,2.0,4.0,0.0
+Andrea Martin Armani,USC,Andrea Martin Armani.jpg,30.9890213,ok,1.572969227,Engineering,3.7,1.7000000000000002,63.6
+Ron Artstein,USC,Ron Artstein.jpg,24.52982712,ok,1.26758391,Computer Science,2.0,3.1,22.200000000000003
+Salman Avestimehr,USC,Salman Avestimehr.png,37.96980286,ok,1.90301476,Engineering,4.4,3.4000000000000004,100.0
+Nora Ayanian,USC,Nora Ayanian.jpg,28.11630249,ok,1.437149476,Computer Science,5.0,3.0,100.0
+Alex Azmi,USC,Alex Azmi.png,27.25609016,ok,1.396479354,Engineering,5.0,2.0,100.0
+Jae Young Bang,USC,Jae Young Bang.jpg,42.68667984,ok,2.126024773,Computer Science; Engineering,0.0,0.0,-1.0
+Jae Young Bang,USC,Jae Young Bang.jpg,42.68667984,ok,2.126024773,Computer Science,3.5,2.0,50.0
+Jernej Barbic,USC,Jernej Barbic.png,23.46668053,ok,1.217319225,Computer Science,4.5,3.6,92.0
+Mohammed Beshir,USC,Mohammed Beshir.jpg,33.27252579,ok,1.680931416,Engineering,3.9,2.5,90.9
+Erdem Biyik,USC,Erdem Biyik.jpg,37.60165787,ok,1.885609172,Engineering,0.0,0.0,-1.0
+Claire Bono,USC,Claire Bono.jpg,38.52114487,ok,1.929081751,Computer Science,2.5,3.3000000000000003,44.0
+Thomas C Booth,USC,Thomas C Booth.jpg,24.0037384,ok,1.242710874,Engineering,4.3,3.0,66.7
+Geza P Bottlik,USC,Geza P Bottlik.jpg,19.46917725,ok,1.028320602,Engineering,2.5,3.2,35.7
+Gregg Brandow,USC,Gregg Brandow.jpg,28.34365845,ok,1.447898676,Engineering,4.5,1.5,100.0
+Paulo Branicio,USC,Paulo Branicio.jpg,34.48506546,ok,1.738259281,Engineering,5.0,2.7,98.9
+Katherine Brichacek,USC,Katherine Brichacek.jpg,38.28054047,ok,1.917706176,Engineering,5.0,2.0,100.0
+Todd Andrew Brun,USC,Todd Andrew Brun.jpg,21.5937767,ok,1.128769893,Engineering,2.9000000000000004,3.7,42.900000000000006
+Saakar Byahut,USC,Saakar Byahut.jpg,35.75616837,ok,1.798355967,Engineering,4.3,3.7,88.9
+John Gunnar Carlsson,USC,John Gunnar Carlsson.jpg,24.18628311,ok,1.251341436,Engineering,5.0,2.3000000000000003,100.0
+David Chan,USC,David Chan.png,103.4740295,ok,5.0,Computer Science; Engineering,0.0,0.0,-1.0
+Jincai Chang,USC,Jincai Chang.jpeg,39.34724045,ok,1.968138862,Engineering,3.2,2.4000000000000004,70.60000000000001
+Meida Chen,USC,Meida Chen.jpg,24.68811226,ok,1.275067499,Engineering,5.0,2.0,100.0
+Yong Chen,USC,Yong Chen_2.jpg,18.71413231,ok,1.0,Engineering,4.9,2.8000000000000003,100.0
+Bill Cheng,USC,Bill Cheng.jpg,37.69553757,ok,1.890047726,Computer Science,3.3000000000000003,3.7,49.5
+Amy Childress,USC,Amy Childress.jpg,31.87809753,ok,1.61500401,Engineering,0.0,0.0,-1.0
+Keith Michael Chugg,USC,Keith Michael Chugg.jpg,24.23418999,ok,1.253606433,Engineering,3.7,4.2,83.30000000000001
+Pierson Clair,USC,Pierson Clair.jpg,32.77871704,ok,1.65758455,Engineering,4.4,3.3000000000000003,80.0
+Bryan Braxton Cooley,USC,Bryan Braxton Cooley.jpg,33.15943527,ok,1.675584591,Engineering,4.0,5.0,0.0
+Aaron Daniel Cote,USC,Aaron Daniel Cote.png,28.39665031,ok,1.450404088,Computer Science,4.3,4.0,84.9
+Alan D. Croll,USC,Alan D. Croll.jpg,38.50127029,ok,1.928142098,Engineering,0.0,0.0,-1.0
+Stephen Burke Cronin,USC,Stephen Burke Cronin.jpg,39.10723114,ok,1.956791422,Engineering,3.5,2.7,85.7
+Heather Culbertson,USC,Heather Culbertson.jpg,40.44442749,ok,2.020012951,Computer Science,3.2,3.4000000000000004,60.0
+David Z D'Argenio,USC,David Z D'Argenio.png,31.64338303,ok,1.603906904,Engineering,4.7,2.6,100.0
+Felipe De Barros,USC,Felipe De Barros.png,34.97911835,ok,1.76161769,Engineering,4.0,2.0,100.0
+Devang Dedhia,USC,Devang Dedhia.jpg,44.78371048,ok,2.225170633,Engineering,0.0,0.0,-1.0
+Daniel Depew,USC,Daniel Depew.png,103.4740295,ok,5.0,Engineering,0.0,0.0,-1.0
+Maged M. Dessouky,USC,Maged M. Dessouky.jpg,24.19282913,ok,1.251650926,Engineering,3.3000000000000003,2.3000000000000003,100.0
+Bistra Dilkina,USC,Bistra Dilkina.png,25.26046562,ok,1.302127889,Computer Science,3.4000000000000004,3.3000000000000003,50.0
+Julian A. Domaradzki,USC,Julian A. Domaradzki.jpg,28.84511948,ok,1.471607336,Engineering,3.1,3.4000000000000004,53.3
+Daniel Druhora,USC,Daniel Druhora.jpg,32.8327446,ok,1.660138928,Engineering,5.0,3.0,100.0
+Shaddin Dughmi,USC,Shaddin Dughmi.jpg,32.61911774,ok,1.650038828,Computer Science,2.0,4.6000000000000005,24.6
+Scott John Easley,USC,Scott John Easley.png,42.78116989,ok,2.130492184,Computer Science,4.2,2.5,72.0
+Fokion Egolfopoulos,USC,Fokion Egolfopoulos.jpg,28.52192307,ok,1.456326879,Engineering,3.5,3.5,42.900000000000006
+Iraj Ershaghi,USC,Iraj Ershaghi.jpg,40.17722702,ok,2.007379935,Engineering,3.7,4.3,100.0
+Mahdi Eslamimehr,USC,Mahdi Eslamimehr.jpg,39.60754395,ok,1.980445794,Computer Science,5.0,1.8,100.0
+James Faghmous,USC,James Faghmous.jpeg,35.48363113,ok,1.785470634,Engineering,4.0,2.3000000000000003,71.4
+Emilio Ferrara,USC,Emilio Ferrara.png,33.16594696,ok,1.675892458,Computer Science,4.5,2.3000000000000003,90.0
+Elizabeth Fife,USC,Elizabeth Fife.jpg,24.61358452,ok,1.27154389,Engineering,1.6,3.6,14.3
+Stacey Finley,USC,Stacey Finley.jpeg,34.66888809,ok,1.746950262,Engineering,3.3000000000000003,3.1,54.5
+Brandon Franzke,USC,Brandon Franzke.jpeg,35.06476593,ok,1.765667036,Engineering,2.2,4.1000000000000005,22.4
+Bora Gencturk,USC,Bora Gencturk.jpeg,30.82476425,ok,1.565203291,Engineering,4.0,1.8,75.0
+Amin Ghadami,USC,Amin Ghadami.jpeg,30.06064606,ok,1.529076419,Engineering,0.0,0.0,-1.0
+Shahram Ghandeharizadeh,USC,Shahram Ghandeharizadeh.jpg,35.93455124,ok,1.80678976,Computer Science,3.0,3.3000000000000003,48.0
+Roger Georges Ghanem,USC,Roger Georges Ghanem.jpg,30.84076309,ok,1.565959703,Engineering,1.9,3.4000000000000004,15.4
+Yolanda Gil,USC,Yolanda Gil.jpeg,38.17040634,ok,1.912499126,Engineering,0.0,0.0,-1.0
+Matthew Gilpin,USC,Matthew Gilpin.jpg,44.70597076,ok,2.221495165,Engineering,4.0,4.1000000000000005,81.30000000000001
+Leana Golubchik,USC,Leana Golubchik.jpg,42.31749344,ok,2.108569947,Computer Science,1.6,3.9,20.0
+Keith Goodfellow,USC,Keith Goodfellow.jpg,48.34981918,ok,2.393773281,Engineering,4.800000000000001,3.0,-1.0
+Andrew Goodney,USC,Andrew Goodney.png,29.31274033,ok,1.49371606,Computer Science,3.4000000000000004,3.2,62.6
+Ramesh Govindan,USC,Ramesh Govindan.jpg,32.75999451,ok,1.656699364,Computer Science,4.3,4.5,90.9
+Vinay Goyal,USC,Vinay Goyal.jpeg,26.09004784,ok,1.341349845,Engineering,5.0,3.2,100.0
+Joseph S. Greenfield,USC,Joseph S. Greenfield.jpg,39.24967194,ok,1.963525904,Engineering,4.3,2.4000000000000004,78.60000000000001
+Lessa Grunenfelder,USC,Lessa Grunenfelder.jpeg,22.11765289,ok,1.153538323,Engineering,4.9,2.1,95.5
+Mike Gruntman,USC,Mike Gruntman.jpg,31.58520508,ok,1.601156299,Engineering,3.5,3.6,50.0
+Martin A Gundersen,USC,Martin A Gundersen.jpg,19.763937,ok,1.042256597,Engineering,2.5,4.3,-1.0
+Malancha Gupta,USC,Malancha Gupta.jpg,17.59075546,ok,1.0,Engineering,0.0,0.0,-1.0
+Sandeep Gupta,USC,Sandeep Gupta.jpg,27.33640671,ok,1.400276654,Engineering,3.9,3.2,66.7
+Shalini Gupta,USC,Shalini Gupta.jpg,30.45728111,ok,1.547828994,Engineering,2.4000000000000004,3.1,32.300000000000004
+Justin P. Haldar,USC,Justin P. Haldar.jpg,18.87044144,ok,1.000012872,Engineering,4.4,4.0,85.7
+Herag Haleblian,USC,Herag Haleblian.jpg,25.51435661,ok,1.314131644,Engineering,4.2,2.6,80.0
+Chaz Hales,USC,Chaz Hales.jpeg,51.13335037,ok,2.525376315,Computer Science,4.7,2.2,92.3
+William G.J. Halfond,USC,William G.J. Halfond.jpg,27.0955677,ok,1.388889986,Computer Science,2.5,4.0,36.0
+Hossein Hashemi,USC,Hossein Hashemi.jpg,37.62969208,ok,1.886934606,Engineering,5.0,3.2,100.0
+Parag Havaldar,USC,Parag Havaldar.jpg,21.5442543,ok,1.126428516,Computer Science,4.6000000000000005,3.1,83.30000000000001
+Ronald Claude Henry,USC,Ronald Claude Henry.jpg,21.20716095,ok,1.110491023,Engineering,4.5,2.0,-1.0
+Gerald Hintz,USC,Gerald Hintz.jpg,32.42689514,ok,1.640950704,Engineering,1.8,4.0,0.0
+Andrea Maria Hodge,USC,Andrea Maria Hodge.jpg,34.00050735,ok,1.715349778,Engineering,4.6000000000000005,1.8,-1.0
+Jonathan Holtmann,USC,Jonathan Holtmann.jpg,35.80595016,ok,1.800709609,Engineering,5.0,1.5,100.0
+Ellis Horowitz,USC,Ellis Horowitz.jpg,33.07655334,ok,1.671666002,Computer Science,3.5,2.5,68.4
+Ming-Deh A. Huang,USC,Ming-Deh A. Huang.jpg,27.49964523,ok,1.407994435,Computer Science,4.2,3.5,100.0
+Petros A Ioannou,USC,Petros A Ioannou.jpg,41.64650345,ok,2.0768461,Engineering,2.4000000000000004,3.8,38.5
+Laurent Itti,USC,Laurent Itti.jpg,24.80573463,ok,1.280628587,Computer Science,2.9000000000000004,3.7,34.6
+Reza Jafarkhani,USC,Reza Jafarkhani.png,35.34711456,ok,1.779016244,Engineering,4.9,2.2,96.6
+Behnam Jafarpour,USC,Behnam Jafarpour.png,35.44529724,ok,1.783658239,Engineering,1.0,3.0,0.0
+Rahul Jain,USC,Rahul Jain.jpg,23.50499344,ok,1.219130628,Engineering,1.6,4.9,11.1
+Nicole Jao,USC,Nicole Jao.png,103.4740295,ok,5.0,Engineering,5.0,2.6,100.0
+Keith  Jenkins,USC,Keith Jenkins.jpg,28.54704285,ok,1.457514521,Engineering,5.0,2.6,100.0
+Kristian Jessen,USC,Kristian Jessen.jpeg,31.90803146,ok,1.616419262,Engineering,3.0,1.0,100.0
+Robin Jia,USC,Robin Jia.jpg,30.02924347,ok,1.527591731,Computer Science,5.0,3.6,100.0
+Yan Jin,USC,Yan Jin.jpg,26.59062386,ok,1.365016662,Engineering,3.2,3.1,50.0
+Erik A Johnson,USC,Erik A Johnson.jpeg,27.91536903,ok,1.42764951,Engineering,2.1,4.3,0.0
+Edmond A Jonckheere,USC,Edmond A Jonckheere.jpg,56.81600571,ok,2.794047523,Engineering,4.4,3.4000000000000004,0.0
+Eva Adnan Kanso,USC,Eva Adnan Kanso.jpg,24.7452774,ok,1.27777022,Engineering,3.8,3.1,62.5
+Rehan Kapadia,USC,Rehan Kapadia.jpg,36.61048508,ok,1.838747349,Engineering,2.8000000000000003,3.9,33.300000000000004
+Jennifer Marie Kassar,USC,Jennifer Marie Kassar.jpg,27.88032913,ok,1.425992852,Engineering,4.800000000000001,2.2,100.0
+Brittany Kay,USC,Brittany Kay.png,31.09229469,ok,1.577851907,Engineering,4.5,2.9000000000000004,70.0
+David Kempe,USC,David Kempe.jpg,34.89685059,ok,1.757728138,Computer Science,2.9000000000000004,4.5,43.7
+Carl F Kesselman,USC,Carl F Kesselman.jpg,18.87495804,ok,1.000226413,Engineering,1.6,3.8,0.0
+Mercedeh Khajavikhan,USC,Mercedeh Khajavikhan.png,103.4740295,ok,5.0,Engineering,3.0,4.1000000000000005,50.0
+Yasser Khan,USC,Yasser Khan.jpg,25.13904953,ok,1.296387438,Engineering,4.4,2.0,87.5
+Yalda Khashe,USC,Yalda Khashe.jpg,32.6511116,ok,1.651551471,Engineering,3.7,2.3000000000000003,71.4
+Berok Khoshnevis,USC,Berok Khoshnevis.jpeg,27.71652222,ok,1.418248198,Engineering,1.0,1.0,0.0
+Leslie King,USC,Leslie King.jpg,33.96246719,ok,1.71355127,Engineering,1.0,4.6000000000000005,0.0
+Sven Koenig,USC,Sven Koenig.jpg,24.3682785,ok,1.259946026,Computer Science,3.4000000000000004,3.6,40.0
+Aleksandra Korolova,USC,Aleksandra Korolova.jpg,35.1396904,ok,1.769209402,Computer Science,0.0,0.0,-1.0
+Bart Andrew Kosko,USC,Bart Andrew Kosko.jpg,26.79340744,ok,1.374604101,Engineering,3.5,3.8,57.900000000000006
+Barrett Koster,USC,Barrett Koster.jpg,27.66772079,ok,1.415940907,Computer Science,4.2,2.4000000000000004,83.30000000000001
+Trevor Krasowsky,USC,Trevor Krasowsky.png,103.4740295,ok,5.0,Engineering,0.0,0.0,-1.0
+Bhaskar Krishnamachari,USC,Bhaskar Krishnamachari.jpg,26.45204544,ok,1.35846479,Engineering,4.800000000000001,2.1,94.4
+Clark Michael Kromenaker,USC,Clark Michael Kromenaker.jpg,42.74194336,ok,2.128637586,Engineering,5.0,2.6,100.0
+Joseph A. Kunc,USC,Joseph A. Kunc.jpeg,64.42637634,ok,3.153859503,Engineering,3.0,3.0,100.0
+Chris Kyriakakis,USC,Chris Kyriakakis.jpg,27.83149338,ok,1.423683939,Engineering,4.0,2.6,82.60000000000001
+David Lazzara,USC,David Lazzara.jpg,34.33094406,ok,1.73097255,Engineering,1.0,5.0,0.0
+Gianluca Lazzi,USC,Gianluca Lazzi.jpg,29.24608231,ok,1.490564524,Engineering,4.2,3.2,100.0
+Richard M. Leahy,USC,Richard M. Leahy.jpg,31.16539001,ok,1.581307793,Engineering,4.5,1.8,100.0
+Bennett Lee,USC,Bennett Lee.jpg,36.34959793,ok,1.826412822,Computer Science,4.800000000000001,2.5,93.5
+Jay H. Lee,USC,Jay H. Lee.png,42.18066025,ok,2.102100588,Engineering,4.0,2.5,50.0
+Mike Lee,USC,Mike Lee.jpg,20.95985031,ok,1.098798382,Computer Science; Engineering,0.0,0.0,-1.0
+Vincent W Lee,USC,Vincent W Lee.jpg,48.25793839,ok,2.389429233,Engineering,1.7000000000000002,3.8,23.5
+Tony Levi,USC,Tony Levi.jpg,31.19144821,ok,1.582539803,Engineering,3.0,5.0,0.0
+Ruolin Li,USC,Ruolin Li.jpg,25.27897453,ok,1.303002975,Engineering,0.0,0.0,-1.0
+Timothy Li,USC,Timothy Li.jpg,33.53537369,ok,1.693358646,Engineering,3.7,1.7000000000000002,66.7
+Daniel Amihud Lidar,USC,Daniel Amihud Lidar.jpg,20.30072021,ok,1.06763526,Engineering,5.0,2.6,100.0
+Brent J. Liu,USC,Brent J. Liu.jpg,30.99423599,ok,1.573215773,Engineering,4.6000000000000005,1.2000000000000002,100.0
+Ruishan Liu,USC,Ruishan Liu.jpg,27.9430542,ok,1.428958441,Computer Science,5.0,3.0,100.0
+Yan Liu,USC,Yan Liu.jpg,18.84321594,ok,1.0,Computer Science,2.0,3.8,20.0
+Gerald E. Loeb,USC,Gerald E. Loeb.jpg,26.35080719,ok,1.35367833,Engineering,3.3000000000000003,4.3,66.7
+Grace Lu,USC,Grace Lu.jpg,23.48210144,ok,1.218048313,Engineering,5.0,4.0,100.0
+Paul Lu,USC,Paul Lu.jpg,30.8981514,ok,1.568672974,Engineering,0.0,0.0,-1.0
+Stephen Chih-Yang Lu,USC,Stephen Chih-Yang Lu.jpg,35.00906754,ok,1.763033662,Engineering,1.2000000000000002,4.2,0.0
+Gale Lucas,USC,Gale Lucas.jpg,33.08485794,ok,1.672058636,Engineering,4.9,1.6,100.0
+Mitul Luhar,USC,Mitul Luhar.jpg,28.05973244,ok,1.434474891,Engineering,4.9,3.1,100.0
+Haipeng Luo,USC,Haipeng Luo.jpg,29.46871567,ok,1.501090444,Computer Science,3.6,4.4,66.7
+Patrick Joseph Lynett,USC,Patrick Joseph Lynett.jpg,22.19956589,ok,1.157411101,Engineering,5.0,3.0,100.0
+Tao Ma,USC,Tao Ma.jpg,33.87015915,ok,1.709187023,Engineering,4.4,3.2,81.80000000000001
+Xuezhe Ma,USC,Xuezhe Ma.png,103.4740295,ok,5.0,Computer Science,5.0,2.0,100.0
+Edward W Maby,USC,Edward W Maby.png,103.4740295,ok,5.0,Engineering,2.8000000000000003,3.1,14.3
+Sanjay Madhav,USC,Sanjay Madhav.jpeg,29.11245537,ok,1.484246754,Computer Science,4.800000000000001,2.5,89.7
+Anupam Madhukar,USC,Anupam Madhukar.jpg,42.57517242,ok,2.120752795,Engineering,2.3000000000000003,5.0,33.300000000000004
+Harsha V. Madhyastha,USC,Harsha V. Madhyastha.jpg,43.73551178,ok,2.175612673,Computer Science,4.0,4.5,75.0
+Neda Maghsoodi,USC,Neda Maghsoodi.jpeg,32.47120667,ok,1.643045716,Engineering,4.9,3.4000000000000004,100.0
+Noah Malmstadt,USC,Noah Malmstadt.jpg,20.96537781,ok,1.099059717,Engineering,3.3000000000000003,3.3000000000000003,62.5
+Yvonne Marchand,USC,Yvonne Marchand.png,103.4740295,ok,5.0,Engineering,2.0,4.5,0.0
+Bogdan Marcu,USC,Bogdan Marcu.jpeg,31.79587173,ok,1.611116443,Engineering,5.0,3.5,100.0
+Vasilis Marmarelis,USC,Vasilis Marmarelis.jpg,29.31286621,ok,1.493722011,Engineering,5.0,4.0,100.0
+Sami F Masri,USC,Sami F Masri.jpg,31.32081795,ok,1.588656296,Engineering,0.0,0.0,-1.0
+Theodore Ken Mayeshiba,USC,Theodore Ken Mayeshiba.jpg,21.84766006,ok,1.140773287,Engineering,5.0,3.0,100.0
+Megan McCain,USC,Megan McCain.jpg,29.20301437,ok,1.488528308,Engineering,4.800000000000001,3.3000000000000003,100.0
+Daniel McCurry,USC,Daniel McCurry.png,22.46386337,ok,1.169906866,Engineering,4.0,3.3000000000000003,75.0
+Stefan McGregor,USC,Stefan McGregor.png,103.4740295,ok,5.0,Engineering,5.0,2.7,95.8
+John Mcarthur,USC,John Mcarthur.jpg,30.02351379,ok,1.527320837,Engineering,0.0,0.0,-1.0
+Gerard Guy Medioni,USC,Gerard Guy Medioni.jpg,35.83591461,ok,1.802126303,Computer Science,4.4,3.0,-1.0
+Nenad Medvidovic,USC,Nenad Medvidovic.jpeg,27.722229,ok,1.41851801,Computer Science,3.5,3.6,60.0
+Bartlett W. Mel,USC,Bartlett W. Mel.jpg,23.01348686,ok,1.195892606,Engineering,2.5,4.1000000000000005,34.1
+Jerry Marc Mendel,USC,Jerry Marc Mendel.jpg,32.92782211,ok,1.664634113,Engineering,3.8,3.8,50.0
+Emily Millard,USC,Emily Millard.jpg,32.22499466,ok,1.631405017,Engineering,4.3,1.8,100.0
+Jelena Mirkovic,USC,Jelena Mirkovic.jpg,25.43939209,ok,1.310587384,Computer Science,4.800000000000001,2.3000000000000003,100.0
+Sanjit Mitra,USC,Sanjit Mitra.jpg,25.93767929,ok,1.334145987,Engineering,2.0,5.0,-1.0
+Urbashi Mitra,USC,Urbashi Mitra.jpg,21.37182999,ok,1.118276438,Engineering,2.0,4.3,25.0
+Mahta Moghaddam,USC,Mahta Moghaddam.jpg,20.15045547,ok,1.060530869,Engineering,5.0,4.0,100.0
+Andreas Molisch,USC,Andreas Molisch.jpeg,25.18575859,ok,1.298595803,Engineering,1.9,4.4,20.0
+Fred Morstatter,USC,Fred Morstatter.png,103.4740295,ok,5.0,Computer Science,5.0,3.0,100.0
+Maral Mousavi,USC,Maral Mousavi.jpg,26.8952713,ok,1.379420139,Engineering,3.0,4.5,50.0
+Sifat Muin,USC,Sifat Muin.jpeg,37.28015518,ok,1.870408793,Engineering,3.0,3.0,0.0
+Karthyek Murthy,USC,Karthyek Murthy.png,103.4740295,ok,5.0,Engineering,4.800000000000001,3.0,100.0
+Farzad Naeim,USC,Farzad Naeim.jpg,31.70047188,ok,1.606606017,Engineering,5.0,4.0,100.0
+Giacomo Nannicini,USC,Giacomo Nannicini.png,30.37894821,ok,1.54412548,Engineering,0.0,0.0,-1.0
+Sridhar Narayanan,USC,Sridhar Narayanan.png,103.4740295,ok,5.0,Engineering,5.0,3.0,100.0
+Krishnamurthy Narayanaswamy,USC,Krishnamurthy Narayanaswamy.png,103.4740295,ok,5.0,Computer Science,2.5,3.0,-1.0
+Navid Nastar,USC,Navid Nastar.jpg,33.57533646,ok,1.695248052,Engineering,4.5,2.5,100.0
+Krishna Shrinivas Nayak,USC,Krishna Shrinivas Nayak.jpg,30.13835526,ok,1.532750445,Engineering,5.0,1.3,100.0
+Ashutosh Nayyar,USC,Ashutosh Nayyar.jpg,19.4212532,ok,1.026054793,Engineering,3.6,3.6,66.7
+Shahin Nazarian,USC,Shahin Nazarian.jpg,22.96259308,ok,1.193486391,Engineering,4.5,3.2,84.5
+Michael James Neely,USC,Michael James Neely.jpg,37.46485519,ok,1.879141256,Engineering,4.3,3.4000000000000004,80.0
+Clifford Neuman,USC,Clifford Neuman.jpg,25.50511742,ok,1.313694822,Computer Science,3.8,3.0,60.0
+Ram Nevatia,USC,Ram Nevatia.jpg,20.98764992,ok,1.100112724,Computer Science,2.3000000000000003,3.5,42.900000000000006
+Paul K. Newton,USC,Paul K. Newton.jpg,28.24695969,ok,1.443326839,Engineering,4.5,3.1,84.60000000000001
+Calvin Nguyen,USC,Calvin Nguyen.png,37.48260498,ok,1.879980451,Computer Science,4.7,2.4000000000000004,88.5
+Hannah Nguyen,USC,Hannah Nguyen.jpg,38.31842804,ok,1.919497469,Computer Science,4.2,1.9,76.9
+Quan Nguyen,USC,Quan Nguyen.jpg,40.49371719,ok,2.022343327,Engineering,0.0,0.0,-1.0
+Zune Nguyen,USC,Zune Nguyen.jpg,36.30681229,ok,1.824389952,Engineering,5.0,2.2,100.0
+Abdel-Salam Niazy,USC,Abdel-Salam Niazy.jpg,22.31645012,ok,1.16293729,Engineering,3.0,3.5,50.0
+Stefanos Nikolaidis,USC,Stefanos Nikolaidis.jpg,25.12618446,ok,1.295779188,Computer Science,4.5,2.5,100.0
+Ken-ichi Nomura,USC,Ken-ichi Nomura.jpg,22.21170044,ok,1.157984813,Engineering,3.8,2.0,50.0
+Ali Nowroozi,USC,Ali Nowroozi.jpg,35.21849823,ok,1.772935371,Engineering,3.9,3.4000000000000004,70.0
+Steve R. Nutt,USC,Steve R. Nutt.jpg,27.31336403,ok,1.399187215,Engineering,1.7000000000000002,4.1000000000000005,25.0
+Assad Oberai,USC,Assad Oberai.jpg,29.94107437,ok,1.52342317,Engineering,4.3,3.3000000000000003,83.30000000000001
+Audrey Olivier,USC,Audrey Olivier.png,28.019207,ok,1.432558882,Engineering,5.0,2.5,100.0
+Edwin Ordoukhanian,USC,Edwin Ordoukhanian.png,103.4740295,ok,5.0,Engineering,5.0,2.0,100.0
+Antonio Ortega,USC,Antonio Ortega.jpg,29.90479088,ok,1.521707716,Engineering,3.4000000000000004,4.3,51.400000000000006
+Corinne E. Packard,USC,Corinne E. Packard.jpg,38.35294342,ok,1.921129327,Engineering,0.0,0.0,-1.0
+Niema Pahlevan,USC,Niema Pahlevan.jpg,26.57586479,ok,1.364318866,Engineering,0.0,0.0,-1.0
+Kurt David Palmer,USC,Kurt David Palmer.jpg,30.91747284,ok,1.569586475,Engineering,3.0,3.1,61.1
+Carlos Pantano-Rubino,USC,Carlos Pantano-Rubino.jpg,39.45110703,ok,1.973049587,Engineering,1.9,4.4,13.3
+Marco Paolieri,USC,Marco Paolieri.jpg,20.60173988,ok,1.081867219,Computer Science,5.0,3.3000000000000003,100.0
+Marco Papa,USC,Marco Papa.jpg,19.77138329,ok,1.042608652,Computer Science,3.0,3.8,47.5
+George Papavassilopoulos,USC,George Papavassilopoulos.jpg,38.97990036,ok,1.950771329,Engineering,2.1,3.2,30.8
+Ryan S. Park,USC,Ryan S. Park.jpg,25.54066086,ok,1.315375287,Engineering,5.0,4.0,100.0
+Seo Jin Park,USC,Seo Jin Park.jpeg,50.06560898,ok,2.474894392,Computer Science,2.3000000000000003,4.0,33.300000000000004
+Alice Cline Parker,USC,Alice Cline Parker.jpg,32.82921982,ok,1.659972279,Engineering,4.4,2.4000000000000004,80.0
+Massoud Pedram,USC,Massoud Pedram.jpg,32.44581985,ok,1.641845448,Engineering,3.7,4.0,72.7
+Anita Penkova,USC,Anita Penkova.jpg,24.04603577,ok,1.244710658,Engineering,4.2,3.0,82.4
+Massoud Pirbazari,USC,Massoud Pirbazari.jpg,43.92797089,ok,2.184711979,Engineering,2.4000000000000004,2.8000000000000003,33.300000000000004
+Maryam Pishgar,USC,Maryam Pishgar.jpeg,33.22626495,ok,1.678744242,Computer Science,4.3,2.9000000000000004,82.10000000000001
+Paul Plucinsky,USC,Paul Plucinsky.jpg,35.051548,ok,1.765042103,Engineering,4.2,2.8000000000000003,60.0
+Gregory Pohlner,USC,Gregory Pohlner.jpeg,38.86952209,ok,1.945552736,Computer Science,4.800000000000001,2.6,95.0
+Akshay Potnuru,USC,Akshay Potnuru.jpg,30.93658447,ok,1.570490058,Engineering,3.1,3.5,60.5
+Michelle Lynn Povinelli,USC,Michelle Lynn Povinelli.png,26.69620895,ok,1.370008637,Engineering,2.7,2.2,100.0
+Viktor K. Prasanna,USC,Viktor K. Prasanna.jpg,27.04150772,ok,1.386334075,Engineering,2.6,4.0,40.0
+Aluizio Prata,USC,Aluizio Prata.jpg,28.25138283,ok,1.443535962,Engineering,2.3000000000000003,4.7,28.8
+Martin Prescher,USC,Martin Prescher.jpg,30.09397316,ok,1.530652097,Engineering,5.0,2.7,100.0
+Konstantinos Psounis,USC,Konstantinos Psounis.jpg,21.37088203,ok,1.118231619,Engineering,3.5,4.1000000000000005,50.0
+Jay Pujara,USC,Jay Pujara.jpeg,31.71191406,ok,1.607146994,Computer Science,2.3000000000000003,4.800000000000001,33.300000000000004
+Gandhi Puvvada,USC,Gandhi Puvvada.jpg,25.06383705,ok,1.292831454,Engineering,3.6,3.5,58.8
+Feifei Qian,USC,Feifei Qian.jpg,37.3239212,ok,1.872478014,Engineering,2.3000000000000003,3.5,33.300000000000004
+Saty Raghavachary,USC,Saty Raghavachary.png,78.1348114,ok,3.801982887,Computer Science,4.0,2.5,72.5
+Barath Raghavan,USC,Barath Raghavan.jpg,14.38784504,ok,1.0,Computer Science,0.0,0.0,-1.0
+Cauligi S Raghavendra,USC,Cauligi S Raghavendra.jpg,25.79766083,ok,1.327526031,Engineering,3.0,3.6,50.0
+Mukund Raghothaman,USC,Mukund Raghothaman.jpg,27.11447906,ok,1.3897841,Computer Science,5.0,2.0,100.0
+Mansour Rahimi,USC,Mansour Rahimi.jpg,28.1590786,ok,1.439171895,Engineering,3.0,2.0,100.0
+Mohammad Reza Rajati,USC,Mohammad Reza Rajati.jpeg,47.80112457,ok,2.367831457,Engineering,3.3000000000000003,3.3000000000000003,56.900000000000006
+Srivatsan Ravi,USC,Srivatsan Ravi.jpg,29.8305397,ok,1.518197183,Computer Science,0.0,0.0,-1.0
+Meisam Razaviyayn,USC,Meisam Razaviyayn.jpg,40.35832977,ok,2.015942322,Engineering,4.6000000000000005,2.9000000000000004,91.7
+Amy Rechenmacher,USC,Amy Rechenmacher.jpg,26.1212616,ok,1.342825606,Engineering,2.8000000000000003,2.4000000000000004,40.900000000000006
+Larry G Redekopp,USC,Larry G Redekopp.jpg,20.20921135,ok,1.063308798,Engineering,4.9,2.6,-1.0
+Mark William Redekopp,USC,Mark William Redekopp.jpg,27.31419182,ok,1.399226352,Engineering,4.4,3.3000000000000003,83.0
+Garrett Reisman,USC,Garrett Reisman.jpeg,40.19185638,ok,2.008071599,Engineering,3.7,2.7,66.7
+Paul David Ronney,USC,Paul David Ronney.jpg,19.62641525,ok,1.035754684,Engineering,3.3000000000000003,3.4000000000000004,59.5
+Paul S. Rosenbloom,USC,Paul S. Rosenbloom.jpg,28.24271393,ok,1.443126104,Computer Science,1.6,3.8,-1.0
+Sheldon Mark Ross,USC,Sheldon Mark Ross.jpg,33.02272797,ok,1.669121183,Engineering,2.2,3.9,12.5
+Shahed Rowshan,USC,Shahed Rowshan.jpg,29.64383888,ok,1.509370124,Engineering,0.0,0.0,-1.0
+Kimberly Ann Rubal,USC,Kimberly Ann Rubal.jpg,29.96753883,ok,1.524674387,Computer Science,4.800000000000001,1.5,96.2
+Tatyana Ryutov,USC,Tatyana Ryutov.jpg,24.7830162,ok,1.279554479,Computer Science,2.0,3.9,22.6
+Ibrahim Sabek,USC,Ibrahim Sabek.jpg,44.5654068,ok,2.214849417,Computer Science,5.0,3.0,100.0
+Satwindar Singh Sadhal,USC,Satwindar Singh Sadhal.jpg,30.25467491,ok,1.538249942,Engineering,4.1000000000000005,2.7,66.7
+Oussama Safadi,USC,Oussama Safadi.jpg,21.92743683,ok,1.144545066,Engineering,3.7,3.1,57.6
+Kristin Sahyouni,USC,Kristin Sahyouni.png,103.4740295,ok,5.0,Engineering,3.0,3.3000000000000003,66.7
+Arash Saifhashemi,USC,Arash Saifhashemi.png,25.78817749,ok,1.327077667,Engineering,4.6000000000000005,3.0,90.9
+Kelly Sanders,USC,Kelly Sanders.jpg,18.51779747,ok,1.0,Engineering,4.3,2.8000000000000003,81.80000000000001
+Ketan Dungarshi Savla,USC,Ketan Dungarshi Savla.jpg,23.60181808,ok,1.223708416,Engineering,1.5,4.5,0.0
+Alexander A Sawchuk,USC,Alexander A Sawchuk.jpg,33.1085968,ok,1.67318099,Engineering,4.7,3.1,80.0
+Susan Schober,USC,Susan Schober.png,103.4740295,ok,5.0,Engineering,3.4000000000000004,3.1,59.3
+Robert Arno Scholtz,USC,Robert Arno Scholtz.jpg,26.71851921,ok,1.371063448,Engineering,4.5,4.3,100.0
+Daniel Seita,USC,Daniel Seita.png,29.16593552,ok,1.486775251,Computer Science,4.2,3.0,80.0
+Suvrajeet Sen,USC,Suvrajeet Sen.jpg,33.06809998,ok,1.671266334,Engineering,2.2,3.4000000000000004,0.0
+Anita Sengupta,USC,Anita Sengupta.jpeg,31.06867599,ok,1.576735235,Engineering,0.0,0.0,-1.0
+Stan Stanley Settles,USC,Stan Stanley Settles.jpg,24.43287468,ok,1.263000079,Engineering,2.3000000000000003,2.0,-1.0
+Sinan Seymen,USC,Sinan Seymen.jpg,29.1965313,ok,1.488221794,Computer Science,4.800000000000001,1.9,94.1
+Cyrus Shahabi,USC,Cyrus Shahabi.jpg,25.80644226,ok,1.32794121,Computer Science,5.0,2.7,100.0
+Shahriar Shamsian,USC,Shahriar Shamsian.jpg,33.92123795,ok,1.711601986,Computer Science,4.0,3.6,80.7
+Maryam Shanechi,USC,Maryam Shanechi.jpg,52.06173325,ok,2.569269484,Engineering,4.3,4.3,100.0
+Shaama Sharada,USC,Shaama Sharada.jpeg,32.86200714,ok,1.661522436,Engineering,3.3000000000000003,4.3,33.300000000000004
+Vatsal Sharan,USC,Vatsal Sharan.jpg,33.14997101,ok,1.675137128,Computer Science,4.7,4.3,83.30000000000001
+Eric C. Shen,USC,Eric C. Shen.jpg,43.96236038,ok,2.186337885,Engineering,0.0,0.0,-1.0
+Keyue Shen,USC,Keyue Shen.jpg,53.70256805,ok,2.646846786,Engineering,4.0,3.5,50.0
+Geoffrey R Shiflett,USC,Geoffrey R Shiflett.jpg,33.84270859,ok,1.707889183,Engineering,2.2,4.1000000000000005,14.3
+Katherine S-F Shing,USC,Katherine S-F Shing.jpg,22.18795967,ok,1.156862369,Engineering,3.2,4.0,50.0
+Kamal Shweyk,USC,Kamal Shweyk.png,34.40052795,ok,1.734262418,Engineering,0.0,0.0,-1.0
+Constantine Sideris,USC,Constantine Sideris.jpeg,27.9765625,ok,1.430542686,Engineering,3.1,4.0,57.1
+Neil Siegel,USC,Neil Siegel.jpg,31.11715126,ok,1.579027105,Engineering,5.0,1.0,100.0
+John A Silvester,USC,John A Silvester.jpg,36.4598732,ok,1.831626545,Engineering,3.0,4.0,0.0
+Emma Katharine Singer,USC,Emma Katharine Singer.jpg,27.10539627,ok,1.389354673,Engineering,2.9000000000000004,3.5,40.0
+Rashi Sinha,USC,Rashi Sinha.png,103.4740295,ok,5.0,Computer Science,0.0,0.0,-1.0
+Carter Slocum,USC,Carter Slocum.png,103.4740295,ok,5.0,Computer Science,3.1,3.9,53.8
+Mohammad Soleymani,USC,Mohammad Soleymani.jpg,38.2825737,ok,1.917802305,Computer Science,5.0,2.0,100.0
+Mahdi Soltanolkotabi,USC,Mahdi Soltanolkotabi.jpeg,37.66435623,ok,1.888573499,Engineering,4.3,3.3000000000000003,66.7
+Dong Song,USC,Dong Song.jpg,22.89639473,ok,1.190356588,Engineering,1.0,5.0,0.0
+Yann Daniel Hilde Staelens,USC,Yann Daniel Hilde Staelens.jpg,21.0940094,ok,1.105141312,Engineering,3.3000000000000003,3.5,50.0
+Oded Stein,USC,Oded Stein.png,37.28596115,ok,1.870683295,Computer Science,4.4,3.6,80.0
+Victoria Stodden,USC,Victoria Stodden.jpeg,35.26453018,ok,1.775111723,Engineering,1.8,4.6000000000000005,11.1
+Sze-chuan Suen,USC,Sze-chuan Suen.png,21.16047668,ok,1.10828383,Engineering,2.8000000000000003,4.3,50.0
+Gaurav Sukhatme,USC,Gaurav Sukhatme.png,34.68138885,ok,1.747541287,Computer Science,4.2,2.5,75.0
+Bill Swartout,USC,Bill Swartout.jpg,31.31512833,ok,1.588387295,Computer Science,1.0,4.0,-1.0
+Swabha Swayamdipta,USC,Swabha Swayamdipta.png,35.701828,ok,1.7957868,Computer Science,3.0,3.7,52.2
+Costas Synolakis,USC,Costas Synolakis.png,103.4740295,ok,5.0,Engineering,2.9000000000000004,1.9,37.5
+Moe Tabar,USC,Moe Tabar.png,28.8263607,ok,1.470720437,Engineering,2.8000000000000003,3.3000000000000003,50.0
+Satish Kumar Thittamaranahalli,USC,Satish Kumar Thittamaranahalli.png,25.35232544,ok,1.306470945,Computer Science; Engineering,2.9000000000000004,4.0,37.5
+Jesse Thomason,USC,Jesse Thomason.jpg,34.97089005,ok,1.761228662,Computer Science,5.0,2.5,100.0
+Christopher Torng,USC,Christopher Torng.jpeg,38.26299667,ok,1.91687672,Engineering,1.0,2.0,0.0
+Firdaus Erach Udwadia,USC,Firdaus Erach Udwadia.jpg,23.12083054,ok,1.200967726,Engineering,3.7,4.1000000000000005,66.7
+Francisco Valero-Cuevas,USC,Francisco Valero-Cuevas.jpg,20.37690926,ok,1.071237415,Engineering,4.3,3.5,75.0
+Priya Darshan Vashishta,USC,Priya Darshan Vashishta.jpg,38.10233688,ok,1.909280859,Computer Science,5.0,1.0,100.0
+Phebe Vayanos,USC,Phebe Vayanos.png,23.63933563,ok,1.225482215,Engineering,0.0,0.0,-1.0
+Detlof Von Winterfeldt,USC,Detlof Von Winterfeldt.jpg,33.03899765,ok,1.6698904,Engineering,3.0,1.3,50.0
+Chao Wang,USC,Chao Wang.jpeg,34.32271957,ok,1.730583703,Computer Science,2.5,3.2,34.1
+Joseph Jiong Wang,USC,Joseph Jiong Wang.jpg,34.97464371,ok,1.761406132,Engineering,1.7000000000000002,4.0,0.0
+Ning Wang,USC,Ning Wang.jpg,37.62365341,ok,1.886649103,Computer Science,1.5,3.9,18.2
+Pin Wang,USC,Pin Wang.jpg,21.38511658,ok,1.118904617,Engineering,3.0,4.0,0.0
+Qiming Wang,USC,Qiming Wang.jpg,28.81682205,ok,1.470269457,Engineering,0.0,0.0,-1.0
+Sunny Wang,USC,Sunny Wang.jpg,36.03956985,ok,1.811754953,Engineering,0.0,0.0,-1.0
+Bo Wang,USC,Bo Wang.jpg,39.02726364,ok,1.953010625,Computer Science,0.0,0.0,-1.0
+Yue Wang,USC,Yue Wang.png,103.4740295,ok,5.0,Computer Science,1.5,3.5,0.0
+Allan Weber,USC,Allan Weber.png,103.4740295,ok,5.0,Engineering,4.2,2.8000000000000003,85.7
+Carter  Wellford,USC,Carter Wellford.jpg,31.69281006,ok,1.606243773,Engineering,2.3000000000000003,4.3,14.3
+Matthew Whiting,USC,Matthew Whiting.jpg,34.74132538,ok,1.750375036,Computer Science,4.7,3.4000000000000004,94.4
+Bruce Wilcox,USC,Bruce Wilcox.jpg,32.34429169,ok,1.637045281,Engineering,4.800000000000001,3.0,100.0
+Robert Brett Williams,USC,Robert Brett Williams.jpg,27.72837067,ok,1.418808383,Engineering,4.0,3.0,100.0
+Howard Williamson,USC,Howard Williamson.jpg,30.08665848,ok,1.530306265,Engineering,2.7,3.4000000000000004,41.7
+Alan E. Willner,USC,Alan E. Willner.jpg,26.75763702,ok,1.372912905,Engineering,3.6,1.6,50.0
+Shinyi Wu,USC,Shinyi Wu.jpg,43.3730278,ok,2.158474732,Engineering,4.7,1.9,100.0
+Wensheng Wu,USC,Wensheng Wu.jpg,45.03213882,ok,2.236916119,Computer Science,1.8,4.0,16.5
+Jack Xu,USC,Jack Xu.jpg,34.25794601,ok,1.727521263,Computer Science,5.0,3.0,100.0
+Renyuan Xu,USC,Renyuan Xu.jpg,29.40157127,ok,1.497915913,Engineering,0.0,0.0,-1.0
+Rui Xu,USC,Rui Xu.jpg,37.33599854,ok,1.87304902,Engineering,0.0,0.0,-1.0
+Bingen Yang,USC,Bingen Yang.jpg,35.82920837,ok,1.801809238,Engineering,3.1,3.1,80.0
+Jesse Tong-Pin Yen,USC,Jesse Tong-Pin Yen.jpg,26.26537132,ok,1.349638993,Engineering,4.4,2.9000000000000004,86.10000000000001
+Dani Yogatama,USC,Dani Yogatama.png,103.4740295,ok,5.0,Computer Science,1.6,4.7,11.8
+Ali Zahid,USC,Ali Zahid.jpg,34.12316132,ok,1.721148755,Engineering,3.0,4.0,48.5
+Cristina Zavaleta,USC,Cristina Zavaleta.jpg,47.04534531,ok,2.332098843,Engineering,3.7,2.7,57.1
+Wade Zeno,USC,Wade Zeno.jpg,45.3265686,ok,2.250836513,Engineering,3.8,2.8000000000000003,60.0
+Jiapeng Zhang,USC,Jiapeng Zhang.jpeg,34.87005997,ok,1.7564615,Computer Science,4.0,2.6,80.0
+Hangbo Zhao,USC,Hangbo Zhao.jpg,28.10534286,ok,1.436631314,Engineering,5.0,2.3000000000000003,100.0
+Jieyu Zhao,USC,Jieyu Zhao.jpg,82.19786072,ok,3.994080472,Computer Science,3.3000000000000003,2.0,50.0
+Yue Zhao,USC,Yue Zhao.png,33.653862,ok,1.698960674,Computer Science,4.4,2.5,87.5
+Chongwu Zhou,USC,Chongwu Zhou.jpg,36.63357544,ok,1.839839042,Engineering,2.3000000000000003,2.2,0.0
+Qifa Zhou,USC,Qifa Zhou.jpg,24.87032318,ok,1.28368228,Engineering,0.0,0.0,-1.0
+Michael Zyda,USC,Michael Zyda.jpg,49.85886765,ok,2.465119834,Computer Science,2.3000000000000003,2.7,33.300000000000004
+Anant Agarwal,MIT,Anant Agarwal.jpg,24.00005341,ok,1.257958743,Engineering,4.3,2.3000000000000003,100.0
+Guy Bresler,MIT,Guy Bresler.jpg,27.97818756,ok,1.591994508,Engineering,5.0,3.0,100.0
+Christina Delimitrou,MIT,Christina Delimitrou.jpg,24.03011703,ok,1.260483125,Electrical Engineering & Computer Science,0.0,0.0,-1.0
+Erik Demaine,MIT,Erik Demaine.jpg,27.9062233,ok,1.585951816,Engineering,3.6,2.8000000000000003,66.7
+Manolis Kellis,MIT,Manolis Kellis.jpg,24.38588905,ok,1.290356571,Engineering,0.0,0.0,-1.0
+Hae-Seung Lee,MIT,Hae-Seung Lee.jpg,36.24700546,ok,2.286310186,Engineering,4.0,5.0,100.0
+Steven Leeb,MIT,Steven Leeb.jpg,32.65276718,ok,1.98450937,Engineering,5.0,3.8,100.0
+Pablo Parrilo,MIT,Pablo Parrilo.jpg,26.28616524,ok,1.449918864,Engineering,4.0,3.8,50.0
+David Perreault,MIT,David Perreault.jpg,24.72994614,ok,1.319246339,Engineering,5.0,4.0,100.0
+L. Rafael Reif,MIT,L. Rafael Reif.jpg,30.15041351,ok,1.774391865,Engineering,4.7,3.7,100.0
+Daniel Sanchez,MIT,Daniel Sanchez.jpg,31.10006714,ok,1.854132332,Engineering,5.0,3.1,100.0
+Charles Sodini,MIT,Charles Sodini.jpg,23.75611305,ok,1.237475572,Engineering,2.0,3.7,0.0
+John Tsitsiklis,MIT,John Tsitsiklis.jpg,24.29917908,ok,1.283075712,Engineering,4.5,3.3000000000000003,100.0
+Joel Voldman,MIT,Joel Voldman.jpg,24.10009384,ok,1.266358933,Engineering,3.3000000000000003,4.0,0.0
+Mengjia Yan,MIT,Mengjia Yan.jpg,26.81357765,ok,1.494204603,Engineering,0.0,0.0,-1.0
+Lizhong Zheng,MIT,Lizhong Zheng.jpg,31.59600067,ok,1.895774854,Engineering,0.0,0.0,-1.0
+Lydia Bourouiba,MIT,Lydia Bourouiba.jpg,36.36784744,ok,2.296457039,Engineering,2.4000000000000004,3.0,40.0
+Markus J. Buehler,MIT,Markus J. Buehler.jpg,27.98599815,ok,1.592650347,Engineering,0.0,0.0,-1.0
+Oral Buyukozturk,MIT,Oral Buyukozturk.jpg,40.51399994,ok,2.644600959,Engineering,3.5,2.7,-1.0
+Elfatih Eltahir,MIT,Elfatih Eltahir.png,47.90558624,ok,3.265257299,Engineering,0.0,0.0,-1.0
+Ali Jadbabaie,MIT,Ali Jadbabaie.jpg,32.03385544,ok,1.93254062,Engineering,1.0,5.0,0.0
+Ruben Juanes,MIT,Ruben Juanes.jpg,45.34852219,ok,3.050545875,Engineering,0.0,0.0,-1.0
+Andrew Whittle,MIT,Andrew Whittle.png,24.95234108,ok,1.337920386,Engineering,3.5,3.4000000000000004,66.7
+John Williams,MIT,John Williams.png,42.80461121,ok,2.836938888,Engineering,0.0,0.0,-1.0
+Jinhua Zhao,MIT,Jinhua Zhao.jpg,50.36210251,ok,3.47152593,Engineering,0.0,0.0,-1.0
+Yoel Fink,MIT,Yoel Fink.jpg,29.95848465,ok,1.758275992,Engineering,0.0,0.0,-1.0
+Bilge Yildiz,MIT,Bilge Yildiz.jpg,34.02589417,ok,2.099808026,Engineering,0.0,0.0,-1.0
+Donald R. Sadoway,MIT,Donald R. Sadoway.jpg,42.57500076,ok,2.81765897,Engineering,4.0,2.5,50.0
+Krystyn Van Vliet,MIT,Krystyn Van Vliet.jpg,29.99596977,ok,1.761423541,Engineering,0.0,0.0,-1.0
+Edward F. Crawley,MIT,Edward F. Crawley.jpg,26.41432381,ok,1.460680076,Engineering,2.2,3.0,0.0
+Olivier L. de Weck,MIT,Olivier L. de Weck.jpg,33.3734436,ok,2.045023091,Engineering,4.0,2.0,100.0
+Mark Drela,MIT,Mark Drela.jpg,37.77437973,ok,2.41456067,Engineering,5.0,3.0,-1.0
+Steven R. Hall,MIT,Steven R. Hall.jpg,39.03867722,ok,2.520721136,Engineering,1.0,4.0,0.0
+R. John Hansman,MIT,R. John Hansman.jpg,29.76208878,ok,1.741785034,Engineering,0.0,0.0,-1.0
+Jonathan P. How,MIT,Jonathan P. How.jpg,41.36822128,ok,2.716328173,Engineering,0.0,0.0,-1.0
+Richard Linares,MIT,Richard Linares.jpg,31.70887184,ok,1.905252414,Engineering,0.0,0.0,-1.0
+David Miller,MIT,David Miller.jpg,26.71807861,ok,1.486185745,Engineering,5.0,2.0,-1.0
+Eytan H. Modiano,MIT,Eytan H. Modiano.jpg,28.06663895,ok,1.599421589,Engineering,0.0,0.0,-1.0
+Moe Z. Win,MIT,Moe Z. Win.jpg,31.14110947,ok,1.857578572,Engineering,4.9,2.7,100.0
+Olivier de Weck,MIT,Olivier de Weck.png,36.65575409,ok,2.320631969,Engineering,4.0,2.0,100.0
+Eytan Modiano,MIT,Eytan Modiano.jpg,28.6022377,ok,1.644394718,Engineering,0.0,0.0,-1.0
+Asuman Ozdaglar,MIT,Asuman Ozdaglar.jpg,29.78953171,ok,1.74408936,Engineering,2.0,4.4,33.300000000000004
+Ramesh Raskar,MIT,Ramesh Raskar.jpg,32.17511749,ok,1.944402105,Engineering,0.0,0.0,-1.0
+Jessika Trancik (she/her),MIT,Jessika Trancik (she_her).png,33.39268112,ok,2.046638426,Engineering,5.0,1.0,100.0
+Moe Win,MIT,Moe Win.jpg,41.31788254,ok,2.712101332,Engineering,4.9,2.7,100.0
+Peter  Abbamonte,UIUC,Peter_Abbamonte.jpg,38.91850662,ok,2.994457639,Physics,4.0,3.0,100.0
+Ivan Thomas Abraham,UIUC,Ivan_Thomas_Abraham.jpg,32.63693237,ok,2.285489323,Engineering,2.5,3.2,42.900000000000006
+Peter Adshead,UIUC,Peter_Adshead.jpg,25.97896576,ok,1.534039576,Physics,3.9,2.9000000000000004,87.5
+Aleksei Aksimentiev,UIUC,Aleksei_Aksimentiev.jpg,28.57981682,ok,1.827583984,Physics,2.0,5.0,-1.0
+Syed Bahauddin Alam,UIUC,Syed_Bahauddin_Alam.jpg,21.08393097,ok,1.0,"Nuclear, Plasma, & Radiological Engineering",1.3,2.7,0.0
+Cody M. Allen,UIUC,Cody_M._Allen.jpg,32.24518204,ok,2.241274519,Engineering,5.0,2.0,100.0
+Jenny Amos,UIUC,Jenny_Amos.jpg,37.05057907,ok,2.78363446,Bioengineering,4.3,2.4000000000000004,75.0
+Daniel  Andruczyk,UIUC,Daniel_Andruczyk.jpg,24.80381203,ok,1.401406142,"Nuclear, Plasma, & Radiological Engineering",0.0,0.0,-1.0
+Ali Ansari,UIUC,Ali_Ansari.jpg,54.66853714,ok,4.772080918,Engineering,5.0,1.9,100.0
+Katie Ansell,UIUC,Katie_Ansell.jpg,30.6666069,ok,2.063109029,Physics,3.8,3.2,57.1
+Arijit  Banerjee,UIUC,Arijit_Banerjee.jpg,26.79774094,ok,1.626450433,Electrical & Computer Engineering,5.0,3.0,100.0
+Tamer Basar,UIUC,Tamer_Basar.jpg,31.27664185,ok,2.131960471,Engineering,1.0,5.0,0.0
+Gordon Baym,UIUC,Gordon_Baym.jpg,30.75904655,ok,2.073542207,Physics,4.5,3.5,-1.0
+Carolyn L. Beck,UIUC,Carolyn_L._Beck.jpg,27.64263344,ok,1.721809015,Engineering,4.1000000000000005,3.4000000000000004,75.0
+Douglas H. Beck,UIUC,Douglas_H._Beck.jpg,30.58395004,ok,2.053779983,Physics,3.2,3.3000000000000003,37.5
+Joseph  Bentsman,UIUC,Joseph_Bentsman.jpg,23.66426086,ok,1.272790984,Engineering,1.8,3.9,0.0
+Alexey  Bezryadin,UIUC,Alexey_Bezryadin.jpg,38.03030396,ok,2.894210866,Physics,4.0,3.0,100.0
+Rohit  Bhargava,UIUC,Rohit_Bhargava.jpg,22.18131256,ok,1.105418392,Engineering,4.5,4.3,-1.0
+Daniel J. Bodony,UIUC,Daniel_J._Bodony.jpg,44.00095367,ok,3.568086762,Engineering,4.7,4.1000000000000005,100.0
+Craig Bradshaw,UIUC,Craig_Bradshaw.jpg,37.23438644,ok,2.804379834,Engineering,0.0,0.0,-1.0
+Paul V. Braun,UIUC,Paul_V._Braun.jpg,30.85850143,ok,2.084767157,Engineering,4.800000000000001,2.3000000000000003,-1.0
+Yoram Bresler,UIUC,Yoram_Bresler.jpg,34.63006973,ok,2.510444276,Engineering,4.0,4.2,100.0
+Donna Brown,UIUC,Donna_Brown.jpg,32.29502487,ok,2.246900018,Engineering,3.3000000000000003,4.1000000000000005,-1.0
+Lili  Cai,UIUC,Lili_Cai.jpg,25.89378929,ok,1.524426155,Engineering,3.7,2.3000000000000003,66.7
+David Ceperley,UIUC,David_Ceperley.jpg,29.91729546,ok,1.978538178,Physics,1.0,5.0,0.0
+Robert T. Chamberlain,UIUC,Robert_T._Chamberlain.jpg,28.48660469,ok,1.817063621,Physics,0.0,0.0,-1.0
+Karthekeyan Chandrasekaran,UIUC,Karthekeyan_Chandrasekaran.jpg,33.31979752,ok,2.362560728,Engineering,1.0,4.0,0.0
+Wayne  Chang,UIUC,Wayne_Chang.jpg,26.76885033,ok,1.623189701,Engineering,3.6,3.5,69.60000000000001
+Marie Agathe Charpagne,UIUC,Marie_Agathe_Charpagne.jpg,29.95287704,ok,1.982554086,Engineering,5.0,2.0,100.0
+Ioannis  Chasiotis,UIUC,Ioannis_Chasiotis.jpg,53.92652893,ok,4.688334346,Engineering,4.2,3.8,66.7
+Yann Chemla,UIUC,Yann_Chemla.jpg,48.50035477,ok,4.075910548,Physics,3.0,3.7,0.0
+Deming  Chen,UIUC,Deming_Chen.jpg,31.98355293,ok,2.211745815,Electrical & Computer Engineering,3.0,3.6,42.900000000000006
+Xu  Chen,UIUC,Xu_Chen.jpg,26.24171066,ok,1.563694214,Electrical & Computer Engineering,4.9,3.2,100.0
+Yuting Wu Chen,UIUC,Yuting_Wu_Chen.jpg,28.49741554,ok,1.818283785,Electrical & Computer Engineering,4.5,3.1,95.5
+Weng Chew,UIUC,Weng_Chew.jpg,26.16705132,ok,1.555267806,Engineering,3.9,3.7,0.0
+Huck Beng  Chew,UIUC,Huck_Beng_Chew.jpg,34.28249359,ok,2.471215181,Engineering,2.5,4.5,50.0
+Hyungsoo  Choi,UIUC,Hyungsoo_Choi.jpg,34.4655304,ok,2.491873584,Electrical & Computer Engineering,1.6,3.2,18.8
+Kent D. Choquette,UIUC,Kent_D._Choquette.jpg,35.20043564,ok,2.574818482,Engineering,2.9000000000000004,3.0,0.0
+Eugene V. Colla,UIUC,Eugene_V._Colla.jpg,34.6313324,ok,2.510586786,Physics,5.0,1.0,100.0
+Bruce A. Conway,UIUC,Bruce_A._Conway.jpg,29.71929359,ok,1.956190747,Engineering,4.1000000000000005,2.6,50.0
+S. Lance Cooper,UIUC,S._Lance_Cooper.jpg,33.95972061,ok,2.434785489,Physics,0.0,0.0,-1.0
+Jorge  Correa Panesso,UIUC,Jorge_Correa_Panesso.jpg,29.26127243,ok,1.904496303,Engineering,3.5,4.0,100.0
+Victoria Coverstone,UIUC,Victoria_Coverstone.jpg,38.16342545,ok,2.90923559,Engineering,4.800000000000001,2.5,-1.0
+Jacob P. Covey,UIUC,Jacob_P._Covey.jpg,26.36563683,ok,1.57768111,Physics,3.5,3.5,69.2
+Brian T. Cunningham,UIUC,Brian_T._Cunningham.jpg,31.6581955,ok,2.175024429,Engineering,4.9,2.0,100.0
+Caroline Cvetkovic,UIUC,Caroline_Cvetkovic.jpg,26.29267693,ok,1.569446509,Bioengineering,4.0,3.0,50.0
+Karin A. Dahmen,UIUC,Karin_A._Dahmen.jpg,31.61979485,ok,2.170690349,Physics,2.0,3.4000000000000004,16.7
+Paul C. Davidson,UIUC,Paul_C._Davidson.jpg,46.39287186,ok,3.838050013,Engineering,5.0,1.0,100.0
+Brian Leeds DeMarco,UIUC,Brian_Leeds_DeMarco.jpg,30.78671646,ok,2.076665164,Physics,3.7,3.1,-1.0
+Angela  Di Fulvio,UIUC,Angela_Di_Fulvio.jpg,29.03042984,ok,1.878442311,Engineering,1.0,4.0,0.0
+Wawrzyniec  Dobrucki,UIUC,Wawrzyniec_Dobrucki.jpg,42.88864517,ok,3.44254634,Bioengineering,4.5,2.5,100.0
+Roy  Dong,UIUC,Roy_Dong.jpg,26.20185089,ok,1.559195451,Electrical & Computer Engineering,4.2,2.8000000000000003,83.30000000000001
+Patrick I. Draper,UIUC,Patrick_I._Draper.jpg,36.6111145,ok,2.734034401,Physics,0.0,0.0,-1.0
+C. Armando Duarte,UIUC,C._Armando_Duarte.jpg,30.8222332,ok,2.080673752,Engineering,4.0,5.0,0.0
+J. Gary  Eden,UIUC,J._Gary_Eden.jpg,35.84079361,ok,2.647092325,Engineering,4.800000000000001,2.4000000000000004,100.0
+Aida X. El-Khadra,UIUC,Aida_X._El-Khadra.jpg,33.76038742,ok,2.412287798,Physics,3.4000000000000004,2.8000000000000003,100.0
+Kejie  Fang,UIUC,Kejie_Fang.jpg,34.50224686,ok,2.496017578,Electrical & Computer Engineering,2.0,4.0,0.0
+Christian Farina,UIUC,Christian_Farina.jpg,53.37703705,ok,4.626316081,Physics,5.0,2.3000000000000003,100.0
+Thomas  Faulkner,UIUC,Thomas_Faulkner.jpg,26.93520164,ok,1.641964902,Physics,2.4000000000000004,2.8000000000000003,40.0
+Milton  Feng,UIUC,Milton_Feng.jpg,32.72303391,ok,2.295207151,Engineering,1.5,1.7000000000000002,-1.0
+Placid Ferreira,UIUC,Placid_Ferreira.jpg,32.81300735,ok,2.305361982,Engineering,2.8000000000000003,2.6,50.0
+Eduardo H. Fradkin,UIUC,Eduardo_H._Fradkin.jpg,32.83974838,ok,2.308380101,Physics,3.0,4.0,50.0
+Jonathan  Freund,UIUC,Jonathan_Freund.jpg,39.86767578,ok,3.10158538,Engineering,2.9000000000000004,3.6,-1.0
+Thomas  Gaj,UIUC,Thomas_Gaj.jpg,31.97660255,ok,2.210961362,Bioengineering,1.5,4.3,33.300000000000004
+Charles Forbes Gammie,UIUC,Charles_Forbes_Gammie.jpg,33.61774445,ok,2.396188434,Physics,2.3000000000000003,4.1000000000000005,66.7
+Jugal  Garg,UIUC,Jugal_Garg.jpg,28.8923645,ok,1.862859601,Engineering,4.0,2.5,50.0
+Philippe Geubelle,UIUC,Philippe_Geubelle.jpg,36.98366165,ok,2.776081842,Engineering,0.0,0.0,-1.0
+Gary E. Gladding,UIUC,Gary_E._Gladding.jpg,30.434021,ok,2.036858278,Physics,3.4000000000000004,3.5,-1.0
+Nick G. Glumac,UIUC,Nick_G._Glumac.jpg,29.26142311,ok,1.904513309,Engineering,2.9000000000000004,3.7,27.3
+Lynford L. Goddard,UIUC,Lynford_L._Goddard.jpg,27.73158073,ok,1.73184803,Engineering,4.800000000000001,3.4000000000000004,100.0
+Ido  Golding,UIUC,Ido_Golding.jpg,31.83177567,ok,2.194615511,Physics,2.8000000000000003,5.0,0.0
+Elizabeth Goldschmidt,UIUC,Elizabeth_Goldschmidt.jpg,36.36775589,ok,2.706567792,Physics,4.5,3.0,100.0
+Holly McIlwee Golecki,UIUC,Holly_McIlwee_Golecki.jpg,27.42194557,ok,1.696901134,Bioengineering,1.7000000000000002,4.0,0.0
+Tom Golecki,UIUC,Tom_Golecki.jpg,42.22632217,ok,3.367793419,Engineering,3.9,3.1,82.4
+George Gollin,UIUC,George_Gollin.jpg,31.70027924,ok,2.179774199,Physics,3.7,3.1,81.30000000000001
+Songbin  Gong,UIUC,Songbin_Gong.jpg,32.56259537,ok,2.277099295,Electrical & Computer Engineering,5.0,4.0,100.0
+Joseph Fernando Gonzalez,UIUC,Joseph_Fernando_Gonzalez.jpg,27.23332024,ok,1.675611982,Engineering,5.0,4.0,100.0
+Andres Goza,UIUC,Andres_Goza.jpg,41.63349152,ok,3.300883734,Engineering,5.0,3.0,100.0
+Angela  Green-Miller,UIUC,Angela_Green-Miller.jpg,24.03095245,ok,1.314177539,Bioengineering,1.0,4.0,0.0
+Megan Griebel,UIUC,Megan_Griebel.jpg,27.08852768,ok,1.659270006,Engineering,3.5,3.5,50.0
+Tony E. Grift,UIUC,Tony_E._Grift.jpg,34.76676941,ok,2.525872851,Engineering,2.7,3.2,100.0
+George Gross,UIUC,George_Gross.jpg,29.34092712,ok,1.91348651,Engineering,1.9,3.4000000000000004,0.0
+Matthias  Grosse Perdekamp,UIUC,Matthias_Grosse_Perdekamp.jpg,28.9974823,ok,1.874723695,Physics,3.8,1.9,100.0
+Saurabh  Gupta,UIUC,Saurabh_Gupta.jpg,64.11421204,ok,5.0,Electrical & Computer Engineering,1.4,4.5,8.3
+Robert B. Haber,UIUC,Robert_B._Haber.jpg,28.29468536,ok,1.795402694,Science,2.9000000000000004,3.4000000000000004,100.0
+Bruce  Hajek,UIUC,Bruce_Hajek.jpg,32.55217743,ok,2.275923477,Engineering,4.1000000000000005,3.2,-1.0
+Ramez M. Hajj,UIUC,Ramez_M._Hajj.jpg,23.94332123,ok,1.304287062,Engineering,5.0,2.0,100.0
+Lippold Haken,UIUC,Lippold_Haken.jpg,20.0107193,ok,1.0,Engineering,4.3,2.5,100.0
+William S. Hammack,UIUC,William_S._Hammack.jpg,30.51514435,ok,2.046014245,Engineering,3.7,2.6,50.0
+Brendan A. Harley,UIUC,Brendan_A._Harley.jpg,27.52801514,ok,1.708872649,Engineering,4.9,3.0,100.0
+Mark Hasegawa-Johnson,UIUC,Mark_Hasegawa-Johnson.jpg,24.61299896,ok,1.379870073,Engineering,4.0,3.4000000000000004,80.0
+Matt Hausman,UIUC,Matt_Hausman.jpg,41.57814026,ok,3.294636528,Engineering,0.0,0.0,-1.0
+Brent Heuser,UIUC,Brent_Heuser.jpg,29.46844482,ok,1.927878763,Engineering,5.0,3.0,100.0
+Jonathan J. L. Higdon,UIUC,Jonathan_J._L._Higdon.jpg,31.7359581,ok,2.183801086,Engineering,3.8,3.7,75.0
+Benjamin  Hooberman,UIUC,Benjamin_Hooberman.jpg,25.83753586,ok,1.518077126,Physics,3.4000000000000004,3.3000000000000003,58.3
+Naira Hovakimyan,UIUC,Naira_Hovakimyan.jpg,86.96855164,ok,5.0,Engineering,4.0,4.0,75.0
+Elizabeth T. Hsiao-Wecksler,UIUC,Elizabeth_T._Hsiao-Wecksler.jpg,31.45258713,ok,2.151818491,Engineering,3.4000000000000004,3.0,50.0
+Yih-Chun  Hu,UIUC,Yih-Chun_Hu.jpg,28.13572693,ok,1.777461889,Engineering,3.5,3.5,60.0
+Pinshane  Huang,UIUC,Pinshane_Huang.jpg,30.7459259,ok,2.072061348,Engineering,0.0,0.0,-1.0
+Zach Huffman,UIUC,Zach_Huffman.jpg,48.54005051,ok,4.080390798,Engineering,5.0,3.0,100.0
+Taylor L. Hughes,UIUC,Taylor_L._Hughes.jpg,26.50322533,ok,1.593210002,Physics,5.0,3.5,-1.0
+Wen-mei  Hwu,UIUC,Wen-mei_Hwu.jpg,28.30290413,ok,1.796330303,Engineering,5.0,2.9000000000000004,100.0
+Joseph Irudayaraj,UIUC,Joseph_Irudayaraj.jpg,33.0290451,ok,2.329745029,Bioengineering,0.0,0.0,-1.0
+Anthony Jacobi,UIUC,Anthony_Jacobi.jpg,42.5806694,ok,3.407786731,Engineering,4.6000000000000005,3.4000000000000004,100.0
+Keilin Jahnke,UIUC,Keilin_Jahnke.jpg,32.71996307,ok,2.294860562,Engineering,0.0,0.0,-1.0
+Jianming  Jin,UIUC,Jianming_Jin.jpg,33.84638596,ok,2.421994001,Engineering,4.7,3.6,100.0
+Blake Everett Johnson,UIUC,Blake_Everett_Johnson.jpg,31.7797699,ok,2.188745893,Engineering,3.1,3.3000000000000003,35.7
+Travis  Johnson,UIUC,Travis_Johnson.jpg,27.38007355,ok,1.692175258,Engineering,5.0,2.0,100.0
+Yonatan Frederick Kahn,UIUC,Yonatan_Frederick_Kahn.jpg,32.94054794,ok,2.319756819,Physics,5.0,4.0,100.0
+Prasanta K. Kalita,UIUC,Prasanta_K._Kalita.jpg,37.60856628,ok,2.846611548,Engineering,4.2,1.7000000000000002,66.7
+Nickvash  Kani,UIUC,Nickvash_Kani.jpg,24.72894096,ok,1.392955838,Electrical & Computer Engineering,4.2,3.6,83.30000000000001
+Shiv Kapoor,UIUC,Shiv_Kapoor.jpg,44.97584534,ok,3.678117667,Engineering,2.6,3.2,16.7
+Mariana E. Kersh,UIUC,Mariana_E._Kersh.jpg,32.81150055,ok,2.305191917,Engineering,0.0,0.0,-1.0
+Harrison Hyung Min Kim,UIUC,Harrison_Hyung_Min_Kim.jpg,33.43743515,ok,2.37583787,Engineering,4.1000000000000005,3.3000000000000003,100.0
+Joohyung  Kim,UIUC,Joohyung_Kim.jpg,34.23377228,ok,2.465716262,Electrical & Computer Engineering,1.0,3.3000000000000003,0.0
+Kyekyoon  Kim,UIUC,Kyekyoon_Kim.jpg,41.09717941,ok,3.240353002,Engineering,2.8000000000000003,3.6,0.0
+Nam Sung  Kim,UIUC,Nam_Sung_Kim.jpg,35.81464005,ok,2.644140509,Engineering,3.0,4.3,25.0
+Sangjin  Kim,UIUC,Sangjin_Kim.jpg,27.27647209,ok,1.680482306,Physics,0.0,0.0,-1.0
+Volodymyr  Kindratenko,UIUC,Volodymyr_Kindratenko.jpg,50.72185516,ok,4.326639638,Engineering,4.6000000000000005,3.2,95.7
+Douglas M. King,UIUC,Douglas_M._King.jpg,26.4651413,ok,1.588911657,Engineering,3.6,2.7,37.5
+Angela  Kou,UIUC,Angela_Kou.jpg,23.28144455,ok,1.229584515,Physics,2.7,3.2,46.2
+Tomasz  Kozlowski,UIUC,Tomasz_Kozlowski.jpg,35.1948967,ok,2.574193331,Engineering,3.0,3.7,37.5
+Philip T. Krein,UIUC,Philip_T._Krein.jpg,36.43249893,ok,2.713874999,Engineering,4.0,3.2,-1.0
+Girish  Krishnan,UIUC,Girish_Krishnan.jpg,28.12106705,ok,1.775807306,Engineering,3.8,3.0,80.0
+Erhan  Kudeki,UIUC,Erhan_Kudeki.jpg,24.51189232,ok,1.368458697,Engineering,4.2,3.3000000000000003,83.30000000000001
+Rakesh  Kumar,UIUC,Rakesh_Kumar.jpg,24.29035187,ok,1.343454589,Engineering,3.4000000000000004,4.2,50.0
+Eric Kuo,UIUC,Eric_Kuo.jpg,27.17116737,ok,1.668597115,Physics,4.4,2.4000000000000004,95.2
+Paul G. Kwiat,UIUC,Paul_G._Kwiat.jpg,35.73496246,ok,2.635147719,Physics,4.2,3.5,87.0
+James M. LaFave,UIUC,James_M._LaFave.jpg,61.96693039,ok,5.0,Engineering,3.5,2.8000000000000003,50.0
+Fan  Lam,UIUC,Fan_Lam.jpg,41.38407898,ok,3.27273385,Bioengineering,0.0,0.0,-1.0
+Frederick K. Lamb,UIUC,Frederick_K._Lamb.jpg,33.30179596,ok,2.360528986,Physics,2.7,2.0,-1.0
+John  Lambros,UIUC,John_Lambros.jpg,30.82859993,ok,2.081392331,Engineering,3.7,3.0,50.0
+Cedric  Langbort,UIUC,Cedric_Langbort.jpg,28.38550186,ok,1.805652675,Engineering,3.0,4.5,33.300000000000004
+Jean-Pierre Leburton,UIUC,Jean-Pierre_Leburton.jpg,37.54133224,ok,2.839023195,Engineering,2.0,4.7,0.0
+Minjoo Lawrence Lee,UIUC,Minjoo_Lawrence_Lee.jpg,31.12521362,ok,2.114869562,Electrical & Computer Engineering,4.0,3.0,75.0
+Susan Leggett,UIUC,Susan_Leggett.jpg,28.79137421,ok,1.851461356,Bioengineering,1.3,3.0,33.300000000000004
+Laurie B. Leonelli,UIUC,Laurie_B._Leonelli.jpg,24.7518959,ok,1.395546642,Bioengineering,5.0,3.0,100.0
+Deborah  Levin,UIUC,Deborah_Levin.jpg,36.09800339,ok,2.676122243,Engineering,1.3,3.5,0.0
+Hua Li,UIUC,Hua_Li.jpg,33.05675125,ok,2.332872076,Bioengineering,1.0,5.0,0.0
+Yudu  Li,UIUC,Yudu_Li.jpg,26.97458649,ok,1.646410062,Engineering,0.0,0.0,-1.0
+Daniel M. Liberzon,UIUC,Daniel_M._Liberzon.jpg,26.33298111,ok,1.573995431,Engineering,5.0,2.6,100.0
+Brian Lilly,UIUC,Brian_Lilly.jpg,49.23354721,ok,4.158662131,Engineering,4.3,1.9,66.7
+Yang Liu,UIUC,Yang_Liu.jpg,18.26180267,ok,1.0,Bioengineering,1.0,5.0,0.0
+Virginia  Lorenz,UIUC,Virginia_Lorenz.jpg,33.91687775,ok,2.429950039,Physics,0.0,0.0,-1.0
+Ting  Lu,UIUC,Ting_Lu.jpg,39.0201149,ok,3.005925632,Bioengineering,3.0,3.0,100.0
+Callan Luetkemeyer,UIUC,Callan_Luetkemeyer.jpg,23.12786674,ok,1.212250995,Engineering,2.3000000000000003,2.3000000000000003,33.300000000000004
+Morten  Lundsgaard,UIUC,Morten_Lundsgaard.jpg,29.74542236,ok,1.959139764,Physics,3.2,2.4000000000000004,55.6
+Hongqiang  Ma,UIUC,Hongqiang_Ma.jpg,30.93119621,ok,2.092971835,Engineering,0.0,0.0,-1.0
+Vidya  Madhavan,UIUC,Vidya_Madhavan.jpg,35.77127457,ok,2.639246075,Physics,2.4000000000000004,4.3,28.6
+Fahad  Mahmood,UIUC,Fahad_Mahmood.jpg,36.70856476,ok,2.7450331,Physics,4.9,3.0,100.0
+Jonathan Makela,UIUC,Jonathan_Makela.jpg,24.68022537,ok,1.387457565,Electrical & Computer Engineering,5.0,2.0,100.0
+Naomi C R Makins,UIUC,Naomi_C_R_Makins.jpg,36.04143906,ok,2.669738123,Physics,4.6000000000000005,3.3000000000000003,100.0
+Lavanya  Marla,UIUC,Lavanya_Marla.jpg,23.82167053,ok,1.290556987,Engineering,1.5,3.6,0.0
+Sergei  Maslov,UIUC,Sergei_Maslov.jpg,26.8094883,ok,1.627776296,Bioengineering,2.3000000000000003,1.7000000000000002,33.300000000000004
+Kathryn  Matlack,UIUC,Kathryn_Matlack.jpg,21.75475311,ok,1.057274866,Engineering,4.0,2.8000000000000003,75.0
+Prashant Mehta,UIUC,Prashant_Mehta.jpg,37.16409683,ok,2.796446614,Engineering,2.8000000000000003,4.1000000000000005,40.0
+Ling Jian Meng,UIUC,Ling_Jian_Meng.jpg,24.04018593,ok,1.315219672,Engineering,1.5,2.5,0.0
+Olgica  Milenkovic,UIUC,Olgica_Milenkovic.jpg,24.50848389,ok,1.368074005,Engineering,3.6,3.0,66.7
+Olga Mironenko,UIUC,Olga_Mironenko.jpg,25.86952209,ok,1.521687244,Electrical & Computer Engineering,5.0,2.5,100.0
+Zahra  Mohaghegh,UIUC,Zahra_Mohaghegh.jpg,34.97524643,ok,2.549402558,"Nuclear, Plasma, & Radiological Engineering",3.6,3.1,62.5
+Uzoma Monye,UIUC,Uzoma_Monye.jpg,36.05068588,ok,2.670781764,Engineering,0.0,0.0,-1.0
+Ryan Mullen,UIUC,Ryan_Mullen.jpg,28.35209274,ok,1.801881963,Engineering,3.5,4.5,50.0
+Mark  Neubauer,UIUC,Mark_Neubauer.jpg,20.45859909,ok,1.0,Physics,3.0,2.5,50.0
+April Novak,UIUC,April_Novak.jpg,31.74828339,ok,2.185192176,"Nuclear, Plasma, & Radiological Engineering",5.0,3.0,100.0
+Melkior  Ornik,UIUC,Melkior_Ornik.jpg,27.57955551,ok,1.714689741,Engineering,4.9,3.3000000000000003,100.0
+Francesco  Panerai,UIUC,Francesco_Panerai.jpg,29.71100998,ok,1.955255819,Engineering,4.0,5.0,100.0
+Sanjay Patel,UIUC,Sanjay_Patel.jpg,30.91360092,ok,2.090985947,Engineering,3.0,3.6,40.0
+Arne J. Pearlstein,UIUC,Arne_J._Pearlstein.jpg,37.21976852,ok,2.802729986,Engineering,2.6,4.4,27.3
+Jen-Chieh  Peng,UIUC,Jen-Chieh_Peng.jpg,41.87469482,ok,3.328107086,Physics,3.5,2.3000000000000003,-1.0
+Kevin Pitts,UIUC,Kevin_Pitts.jpg,25.6504612,ok,1.49696299,Physics,4.2,3.2,100.0
+Magdi  Ragheb,UIUC,Magdi_Ragheb.jpg,29.92899704,ok,1.979858875,Engineering,3.3000000000000003,1.9,33.300000000000004
+Umberto  Ravaioli,UIUC,Umberto_Ravaioli.jpg,26.41889954,ok,1.583692593,Engineering,4.5,2.2,90.9
+David Ruzic,UIUC,David_Ruzic.jpg,37.98368454,ok,2.888949177,Engineering,4.3,2.6,-1.0
+Srinivasa M. Salapaka,UIUC,Srinivasa_M._Salapaka.jpg,38.69239426,ok,2.968937523,Engineering,3.5,2.6,50.0
+Dilip  Sarwate,UIUC,Dilip_Sarwate.jpg,24.57918167,ok,1.376053293,Engineering,4.4,3.0,-1.0
+Theresa Ann Saxton-Fox,UIUC,Theresa_Ann_Saxton-Fox.jpg,28.07621002,ok,1.770744529,Engineering,1.0,3.0,0.0
+Jonathon Kenneth Schuh,UIUC,Jonathon_Kenneth_Schuh.jpg,26.79790306,ok,1.626468731,Electrical & Computer Engineering,3.9,2.5,81.0
+Elaine C. Schulte,UIUC,Elaine_C._Schulte.jpg,28.80955124,ok,1.853512903,Physics,1.4,3.8,4.800000000000001
+Paul Selvin,UIUC,Paul_Selvin.jpg,28.97646713,ok,1.872351824,Physics,1.8,3.0,0.0
+Naresh R. Shanbhag,UIUC,Naresh_R._Shanbhag.jpg,35.44632339,ok,2.602570542,Engineering,3.5,3.7,25.0
+Victoria Shao,UIUC,Victoria_Shao.jpg,23.89868164,ok,1.299248826,Electrical & Computer Engineering,4.4,3.1,87.5
+Diwakar  Shukla,UIUC,Diwakar_Shukla.jpg,25.11397362,ok,1.436412453,Engineering,4.800000000000001,4.0,100.0
+Craig Shultz,UIUC,Craig_Shultz.jpg,29.48833656,ok,1.93012384,Electrical & Computer Engineering,5.0,3.3000000000000003,100.0
+Anne M. Sickles,UIUC,Anne_M._Sickles.jpg,30.70531464,ok,2.067477767,Physics,2.2,3.7,25.0
+Mariana  Silva,UIUC,Mariana_Silva.jpg,28.42984962,ok,1.810657974,Engineering,3.4000000000000004,2.6,40.5
+Charles E. Sing,UIUC,Charles_E._Sing.jpg,29.8813858,ok,1.974485244,Engineering,5.0,4.0,100.0
+Andrew Singer,UIUC,Andrew_Singer.jpg,43.47179031,ok,3.508362871,Engineering,3.5,4.3,-1.0
+Gagandeep Singh,UIUC,Gagandeep_Singh.jpg,43.85818863,ok,3.551973621,Engineering,0.0,0.0,-1.0
+Shannon  Sirk,UIUC,Shannon_Sirk.jpg,27.5638504,ok,1.712917187,Bioengineering,4.7,3.7,66.7
+Andrew M. Smith,UIUC,Andrew_M._Smith.jpg,27.96239853,ok,1.757899223,Bioengineering,3.9,2.7,100.0
+Corey Ethan Snyder,UIUC,Corey_Ethan_Snyder.jpg,25.80900955,ok,1.514857511,Electrical & Computer Engineering,5.0,2.8000000000000003,100.0
+Jun  Song,UIUC,Jun_Song.jpg,25.76469612,ok,1.509856087,Physics,0.0,0.0,-1.0
+Harlee  Sorkin,UIUC,Harlee_Sorkin.jpg,28.39751053,ok,1.80700803,Engineering,5.0,2.0,100.0
+Dusan M. Stipanovic,UIUC,Dusan_M._Stipanovic.jpg,22.70323372,ok,1.164324894,Engineering,4.7,2.0,100.0
+Michael Stone,UIUC,Michael_Stone.jpg,35.34946823,ok,2.591639008,Physics,2.6,3.9,40.0
+Xiao  Su,UIUC,Xiao_Su.jpg,28.94797325,ok,1.869135869,Engineering,3.0,4.0,50.0
+Brad  Sutton,UIUC,Brad_Sutton.jpg,31.38986397,ok,2.144739257,Bioengineering,3.8,4.6000000000000005,60.0
+Ke  Tang,UIUC,Ke_Tang.jpg,35.10460663,ok,2.564002764,Engineering,5.0,2.6,100.0
+Alexandre Tartakovsky,UIUC,Alexandre_Tartakovsky.jpg,24.25834656,ok,1.339842318,Engineering,0.0,0.0,-1.0
+Deborah L. Thurston,UIUC,Deborah_L._Thurston.jpg,39.47540665,ok,3.057312022,Engineering,2.5,2.0,-1.0
+Antonios  Tsokaros,UIUC,Antonios_Tsokaros.jpg,29.15590668,ok,1.892604223,Physics,2.9000000000000004,2.8000000000000003,35.300000000000004
+Rizwan  Uddin,UIUC,Rizwan_Uddin.jpg,35.75278854,ok,2.637159655,Engineering,3.3000000000000003,4.0,66.7
+Gregory H. Underhill,UIUC,Gregory_H._Underhill.jpg,38.52805328,ok,2.95038922,Bioengineering,3.0,2.3000000000000003,0.0
+Lorenzo Vergari,UIUC,Lorenzo_Vergari.jpg,24.89645004,ok,1.411861709,Engineering,3.0,5.0,0.0
+Laura  Villafane Roca,UIUC,Laura_Villafane_Roca.jpg,23.52468491,ok,1.257037778,Engineering,4.0,3.1,85.7
+Smitha  Vishveshwara,UIUC,Smitha_Vishveshwara.jpg,35.46130371,ok,2.604261292,Physics,4.7,3.3000000000000003,100.0
+Pramod  Viswanath,UIUC,Pramod_Viswanath.jpg,29.71755981,ok,1.955995065,Engineering,3.7,3.5,-1.0
+John A. Vozenilek,UIUC,John_A._Vozenilek.jpg,23.01447296,ok,1.199452833,Bioengineering,5.0,1.5,100.0
+Lucas K. Wagner,UIUC,Lucas_K._Wagner.jpg,35.98275375,ok,2.663114621,Physics,2.0,3.9,28.0
+Lara  Waldrop,UIUC,Lara_Waldrop.jpg,24.36938286,ok,1.352374402,Engineering,4.7,2.9000000000000004,80.0
+Dong Kai  Wang,UIUC,Dong_Kai_Wang.jpg,24.51478577,ok,1.368785265,Electrical & Computer Engineering,3.0,3.4000000000000004,50.0
+Pengjie  Wang,UIUC,Pengjie_Wang.jpg,27.88484192,ok,1.749145815,Physics,0.0,0.0,-1.0
+Qiong  Wang,UIUC,Qiong_Wang.jpg,30.30203247,ok,2.021961426,Engineering,4.0,2.5,100.0
+Richard L. Weaver,UIUC,Richard_L._Weaver.jpg,28.5994091,ok,1.829795263,Physics,4.9,2.8000000000000003,-1.0
+Michael B. Weissman,UIUC,Michael_B._Weissman.jpg,37.96151352,ok,2.88644685,Physics,4.1000000000000005,2.3000000000000003,-1.0
+Scott Willenbrock,UIUC,Scott_Willenbrock.jpg,28.35155487,ok,1.801821256,Physics,4.800000000000001,2.4000000000000004,100.0
+Helvi  Witek,UIUC,Helvi_Witek.jpg,27.00368881,ok,1.649694689,Physics,2.6,4.0,40.0
+Ann-Perry Witmer,UIUC,Ann-Perry_Witmer.jpg,31.67610359,ok,2.177045621,Bioengineering,0.0,0.0,-1.0
+Martin D F Wong,UIUC,Martin_D_F_Wong.jpg,30.28069305,ok,2.019552958,Engineering,3.5,3.5,-1.0
+Elle Wroblewski,UIUC,Elle_Wroblewski.jpg,30.00276566,ok,1.988184751,Engineering,2.8000000000000003,2.6,60.0
+Hong  Yang,UIUC,Hong_Yang.jpg,33.2393837,ok,2.353484842,Engineering,2.6,3.0,20.0
+Yuan Yang,UIUC,Yuan_Yang.jpg,30.02383995,ok,1.990563296,Bioengineering,0.0,0.0,-1.0
+Wenzhen Yuan,UIUC,Wenzhen_Yuan.jpg,25.34357071,ok,1.462325872,Engineering,3.3000000000000003,2.8000000000000003,75.0
+Nicolas  Yunes,UIUC,Nicolas_Yunes.jpg,36.83177567,ok,2.758939268,Physics,2.0,2.0,0.0
+Yuanhui  Zhang,UIUC,Yuanhui_Zhang.jpg,35.35049438,ok,2.591754825,Engineering,4.0,2.0,-1.0
+Yupeng Zhang,UIUC,Yupeng_Zhang.jpg,38.02957535,ok,2.894128632,Engineering,0.0,0.0,-1.0
+Yang  Zhao,UIUC,Yang_Zhao.jpg,24.92057991,ok,1.41458512,Electrical & Computer Engineering,0.0,0.0,-1.0
+Patricia Clayton,WFU,Patricia_Clayton.jpg,25.84532166,ok,1.496533073,Engineering,5.0,1.7000000000000002,100.0
+William Crowe,WFU,William_Crowe.jpg,26.85207176,ok,1.658367357,Engineering,5.0,4.3,100.0
+Melissa Kenny,WFU,Melissa_Kenny.jpg,27.30340195,ok,1.730918328,Engineering,3.8,2.9000000000000004,76.9
+Erin Henslee,WFU,Erin_Henslee.jpg,25.13540649,ok,1.382414771,Engineering,5.0,2.0,100.0
+Kyle Luthy,WFU,Kyle_Luthy.jpg,39.0787468,ok,3.623795718,Engineering,0.0,0.0,-1.0
+Kyana Young,WFU,Kyana_Young.jpg,28.32447624,ok,1.895055215,Engineering,3.5,3.6,54.5
