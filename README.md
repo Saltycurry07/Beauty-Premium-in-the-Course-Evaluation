@@ -40,11 +40,11 @@ This repository includes a [crawler script](Data/RMP-Data/rmp_crawler_new.py) th
 This repository also includes [school-specific web-scraper scripts](Data/photo_scraper) that fetch professors' photos from university websites.
 
 ### Data of RateMyProfessors
-Please refer to the latest version of data [here](RMP_data/rmp_engineering_departments_dedup.csv).
+Please refer to the latest version of data [here](Data/RMP-Data/rmp_engineering_departments_dedup.csv).
 
 ### Data of Faculty Photos
 
-Please refer to the latest version of data through this link: https://drive.google.com/drive/folders/1rZJVfmevApVX-XWipRbNk7OwWT1ggDXz?usp=sharing
+Please refer to the latest version of data through this link: https://drive.google.com/drive/folders/1rZJVfmevApVX-XWipRbNk7OwWT1ggDXz?usp=sharing.
 
 ## SCUT-FBP5500 Beauty Score Inference (CSV)
 
