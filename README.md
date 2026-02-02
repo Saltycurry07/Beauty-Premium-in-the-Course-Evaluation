@@ -40,8 +40,7 @@ This repository includes a [crawler script](RMP_data/rmp_crawler_new.py) that fe
 This repository also includes [school-specific web-scraper scripts](photo_scraper/) that fetch professors' photos from university websites.
 
 ### Data of RateMyProfessors
-Please refer to the latest version of data [here](RMP_data/).
-![Summary](plots/rmp_summary_figure_journal_color_big.png)
+Please refer to the latest version of data [here](RMP_data/rmp_engineering_departments_dedup.csv).
 
 ### Data of Faculty Photos
 
