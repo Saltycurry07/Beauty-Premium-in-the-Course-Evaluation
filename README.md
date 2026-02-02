@@ -82,26 +82,10 @@ If images are relative paths, they will be resolved relative to the CSV file loc
 
 ## Baseline Models and Evaluation Strategy 
 
-Our lowest benchmark is a mean-prediction Dummy Regressor, which predicts the average 
-instructor rating observed in the training data. This model provides a reference point for 
-assessing whether facial-attractiveness information contributes any predictive value beyond a 
-naive baseline. 
-We then implement Linear Regression and Ridge Regression as the primary baseline models. 
-Linear regression allows us to test whether predicted facial-beauty scores are linearly 
-associated with course-evaluation outcomes. Ridge regression is particularly appropriate 
-given the small sample size and the inclusion of categorical variables, helping to stabilize 
-coefficient estimates and reduce overfitting. 
+We benchmark our models against a mean-prediction Dummy Regressor, which always predicts the average instructor rating in the training data. This provides a minimal reference point for assessing whether facial-attractiveness information adds predictive value. We then fit three baseline learners: Linear Regression and Ridge Regression, which test for linear associations (with Ridge adding regularization to stabilize estimates and reduce overfitting in a small sample with categorical controls), and HistGradientBoostingRegressor (HistGBR), a gradient-boosted tree model included to capture potential nonlinearities and interactions beyond linear specifications.
 
-All baseline models use the same limited feature set: the raw beauty score inferred from 
-faculty profile photos, along with two categorical controls indicating department (e.g., 
-Computer Science) and school. No additional demographic or professional characteristics are 
-included at this stage, ensuring that the baseline remains intentionally simple and 
-interpretable. 
+All models use the same feature set: the beauty score（1-5）inferred from profile photos, plus the categorical indicator for school. Performance is evaluated primarily using MAE, with RMSE and R² reported as complementary metrics.
 
-Model evaluation focuses primarily on Mean Absolute Error (MAE), which is reported in the 
-same scale as instructor ratings and is robust to outliers. Root Mean Squared Error (RMSE) 
-and R² are also reported as supplementary metrics to provide a fuller picture of predictive 
-performance.
 ## Baseline Models Performance
 
 - **Week 3 Piloted Sample**
