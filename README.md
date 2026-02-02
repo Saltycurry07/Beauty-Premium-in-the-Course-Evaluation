@@ -33,11 +33,11 @@ Our latest dataset covers professors from six U.S. engineering schools/colleges,
 
 ### RateMyProfessors Crawler
 
-This repository includes a crawler script that fetches professor ratings from RateMyProfessors and writes them to a CSV file.
+This repository includes a [crawler script](RMP_data/rmp_crawler_new.py) that fetches professor ratings from RateMyProfessors and writes them to a CSV file.
 
 ### Faculty Photo Scraper
 
-This repository also includes a web scraper script that fetches professors' photos from university websites.
+This repository also includes [school-specific web scraper scripts]() that fetches professors' photos from university websites.
 
 ### Data of RateMyProfessors
 Please refer to the latest version of data through this link: https://github.com/Saltycurry07/Beauty-Premium-in-the-Course-Evaluation/blob/main/rmp_ucla_nyu_professors.csv
