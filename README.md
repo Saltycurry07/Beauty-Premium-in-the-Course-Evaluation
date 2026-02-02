@@ -105,14 +105,29 @@ performance.
 ## Baseline Models Performance
 
 - **Week 3 Piloted Sample**
+  - **Linear Regression / Ridge:** MAE = 0.83 (RMSE = 0.99), slightly better than the mean baseline (MAE = 0.87; RMSE = 1.03).
+  - **Ridge vs. OLS:** Ridge performs marginally better, consistent with regularization stabilizing estimates in a small-sample setting.
+  - **R² (cross-validated):** remains negative, suggesting the current inputs, primarily raw beauty score + categorical controls (school, department), explain limited out-of-sample variation in RMP ratings.
+  - **HistGBR (tree baseline):** does not outperform the mean baseline, indicating little evidence of robust non-linear patterns given current features and sample size.
 
-On the cleaned pilot sample (n = 38), Linear Regression and Ridge achieve MAE = 0.83 (RMSE = 0.99), a modest improvement over the mean-prediction baseline (MAE = 0.87; RMSE = 1.03). Ridge performs slightly better than OLS, which is consistent with regularization helping stabilize estimates in a small-sample setting. However, cross-validated R² remains negative, suggesting that the current inputs, primarily the raw beauty score plus categorical controls (school and department), capture limited out-of-sample variation in RMP ratings. The gradient-boosted tree baseline (HistGBR) does not outperform the mean baseline, indicating little evidence of robust non-linear patterns given the present features and sample size. In the coming weeks, we will expand the dataset across more universities and incorporate additional signals (e.g., number of reviews) to reduce noise and improve predictive performance.
 ![CV results](model/evaluation/MAE_mean.png)
 ![CV results](model/evaluation/RMSE_mean.png)
 ![CV results](model/evaluation/R2_mean.png)
 
-- **Week 4 Sample**
+- **Week 4 Controlled Experiment**
+  - **E1 (beauty only)**  
+  avg_rating_i = β0 + β1 · beauty_i + ε_i
 
+  - **E2 (beauty + school fixed effects)**  
+  avg_rating_i = β0 + β1 · beauty_i + Σ_{s=1}^{S-1} γ_s · 1[school_i = s] + ε_i
+    
+  - **What is held constant:** same cleaned sample (drop missing avg_rating; **N = 552**), same 5-fold cross-validation (same split strategy + random seed), same models (**DummyMean, Linear Regression, Ridge, HistGBR**), and same metrics (**MAE, RMSE, R²**).
+  - **What changes:** only the **feature set** (E1 uses beauty score only; E2 adds **school indicators**). This isolates whether adding school information improves predictive performance.
+
+- **Results and interpretation**
+  - Across both experiments, performance is only marginally better than a mean-prediction baseline: **MAE ≈ 0.97–0.98** and **RMSE ≈ 1.16–1.23**.
+  - Cross-validated **R² is close to zero or negative**, indicating the models often do no better than predicting the average rating.
+  - Adding **school fixed effects** does **not** improve predictive accuracy and can slightly worsen out-of-sample generalization in some specifications.
 
 ![CV results](model/evaluation/cv_mae_by_experiment.png)
 ![CV results](model/evaluation/cv_rmse_by_experiment.png)
