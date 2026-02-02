@@ -29,20 +29,21 @@
   - Draft the report and visualize key results
 
 ## Data
+Our latest dataset covers professors from six U.S. engineering schools/colleges, MIT School of Engineering, UCLA Samueli School of Engineering, USC Viterbi School of Engineering, UIUC Grainger College of Engineering, OSU College of Engineering, and WFU Department of Engineering, and primarily includes course-evaluation outcomes and faculty profile photos.
 
 ### RateMyProfessors Crawler
 
-This repository includes a crawler script that fetches professor ratings for UCLA and NYU (Computer Science and Fine Arts) from RateMyProfessors and writes them to a CSV file.
+This repository includes a crawler script that fetches professor ratings from RateMyProfessors and writes them to a CSV file.
 
 ### Faculty Photo Scraper
 
-This repository also includes a web scraper script that fetches professors' photos for UCLA and NYU (Computer Science) from university websites.
+This repository also includes a web scraper script that fetches professors' photos from university websites.
 
 ### Data of RateMyProfessors
 Please refer to the latest version of data through this link: https://github.com/Saltycurry07/Beauty-Premium-in-the-Course-Evaluation/blob/main/rmp_ucla_nyu_professors.csv
 ![Summary](plots/rmp_summary_figure_journal_color_big.png)
 
-### Data of Faculty Photo
+### Data of Faculty Photos
 
 Please refer to the latest version of data through this link: https://drive.google.com/drive/folders/1rZJVfmevApVX-XWipRbNk7OwWT1ggDXz?usp=sharing
 
