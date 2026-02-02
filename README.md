@@ -80,6 +80,8 @@ python beauty_score_from_csv.py \
 
 If images are relative paths, they will be resolved relative to the CSV file location. Any failures are logged to an `_errors.txt` file alongside the output CSV.
 
+![MC](Plots/3312fbc6ae76128334cfdf244161cc90.png)
+
 ## Baseline Models and Evaluation Strategy 
 
 We benchmark our models against a mean-prediction Dummy Regressor, which always predicts the average instructor rating in the training data. This provides a minimal reference point for assessing whether facial-attractiveness information adds predictive value. We then fit three baseline learners: Linear Regression and Ridge Regression, which test for linear associations (with Ridge adding regularization to stabilize estimates and reduce overfitting in a small sample with categorical controls), and HistGradientBoostingRegressor (HistGBR), a gradient-boosted tree model included to capture potential nonlinearities and interactions beyond linear specifications.
