@@ -1,4 +1,4 @@
-<img width="1074" height="653" alt="image" src="https://github.com/user-attachments/assets/8374effc-c4f7-4c82-a56f-38f08336f5d0" /># Good Looking, Good Rating? Beauty Premium in the Course Evaluation
+# Good Looking, Good Rating? Beauty Premium in the Course Evaluation
 
 - Authors: Kuang Sheng & Liyan Wang
 
