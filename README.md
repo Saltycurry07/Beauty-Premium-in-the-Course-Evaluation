@@ -144,3 +144,37 @@ All models use the same feature set: the beauty score（1-5）inferred from prof
 ![CV results](model/evaluation/cv_mae_by_experiment.png)
 ![CV results](model/evaluation/cv_rmse_by_experiment.png)
 ![CV results](model/evaluation/cv_r2_by_experiment.png)
+
+- **Week 5 Controlled Experiments (Regression)**
+  - **E1 (beauty only):** Use the beauty score as the only predictor of `avg_rating`.
+  - **E2 (+ school fixed effects):** Add `school_name` indicators (one-hot encoded) to control for school-level differences.
+  - **E3 (+ age and gender):** Further add DeepFace-inferred `age_pred` (continuous) and `gender_pred` (categorical).
+  - **E4 (+ course difficulty):** Additionally include `avg_difficulty` as a course-related control.
+  - **What is held constant:** same cleaned sample (N = 532), same preprocessing pipeline, same 5-fold CV (same split strategy + random seed), same model set, and same evaluation metrics.
+  - **What changes:** only the feature set (E1 → E4). This isolates the incremental contribution of each added feature block.
+
+- **Week 5 Results and Interpretation (Regression)**
+  - Beauty alone provides little predictive signal for instructor ratings; performance is close to a mean-prediction baseline.
+  - Adding school fixed effects yields limited improvement, suggesting that between-school average differences do not explain much within-school variation.
+  - Adding age and gender produces a small gain, consistent with these attributes capturing some heterogeneity in evaluation patterns.
+  - Adding course difficulty yields the largest improvement, indicating that course-related information is substantially more predictive of ratings than facial-attractiveness measures.
+  ![CV MAE by experiment](model/evaluation/ridge_mae_controlled_experiments.png)
+
+- **Week 5 Controlled Experiments (Binary Classification Robustness Check)**
+  - **Outcome definition:** Convert `avg_rating` into a binary label using a median split (high vs. low rating).
+  - **Feature sets (controlled):**
+    - **F1:** beauty only
+    - **F2:** beauty + school indicators
+    - **F3:** F2 + age and gender
+    - **F4:** F3 + course difficulty
+  - **Models:** DummyMostFrequent, Logistic Regression, and Gaussian Naive Bayes.
+  - **What is held constant:** same cleaned sample (N = 532), same preprocessing pipeline, same 5-fold Stratified CV (same seed), and the same classification metrics.
+  - **What changes:** only the feature set (F1 → F4). This checks whether conclusions are robust to an alternative outcome formulation.
+
+- **Week 5 Results and Interpretation (Binary Classification)**
+  - Logistic Regression performs best overall, especially after adding difficulty, suggesting that difficulty is a strong discriminator between high- and low-rated instructors.
+  - GaussianNB improves with richer features but remains less stable than Logistic Regression.
+  - DummyMostFrequent stays around chance-level performance, serving as a sanity-check baseline.
+  - Overall, the classification results reinforce the regression findings: course-related features add much more predictive value than beauty alone.
+![ROC-AUC by feature set](model/evaluation/controlled_binary_auc_logit_gnb_dummy.png)
+
