@@ -87,7 +87,7 @@ If images are relative paths, they will be resolved relative to the CSV file loc
 
 ## Facial Attribute Inference (DeepFace)
 
-We use **DeepFace** (an open-source Python library for face recognition and facial-attribute analysis) to infer additional covariates from faculty profile photos. Specifically, we apply the `DeepFace.analyze` function to predict **age** and **gender** from each headshot and then merge these outputs back to our tabular dataset by professor name / photo filename.
+We use **DeepFace** (link:https://github.com/serengil/deepface?tab=readme-ov-file) to infer additional covariates from faculty profile photos. Specifically, we apply the `DeepFace.analyze` function to predict **age** and **gender** from each headshot and then merge these outputs back to our tabular dataset by professor name / photo filename.
 
 ### What we run
 - **Input:** a headshot image file (downloaded from each school’s faculty directory).
