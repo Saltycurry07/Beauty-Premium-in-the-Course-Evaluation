@@ -1,4 +1,4 @@
-# Good Looking, Good Rating? Beauty Premium in the Course Evaluation
+<img width="1074" height="653" alt="image" src="https://github.com/user-attachments/assets/8374effc-c4f7-4c82-a56f-38f08336f5d0" /># Good Looking, Good Rating? Beauty Premium in the Course Evaluation
 
 - Authors: Kuang Sheng & Liyan Wang
 
@@ -85,6 +85,29 @@ If images are relative paths, they will be resolved relative to the CSV file loc
 ![summary](Plots/Week4_output2.png)
 ![MC](Plots/Week4_(3).png)
 
+## Facial Attribute Inference (DeepFace)
+
+We use **DeepFace** (an open-source Python library for face recognition and facial-attribute analysis) to infer additional covariates from faculty profile photos. Specifically, we apply the `DeepFace.analyze` function to predict **age** and **gender** from each headshot and then merge these outputs back to our tabular dataset by professor name / photo filename.
+
+### What we run
+- **Input:** a headshot image file (downloaded from each school’s faculty directory).
+- **Output:** predicted attributes (e.g., `age`, `gender`) plus a status flag indicating whether face analysis succeeded.
+- **Purpose:** enrich the baseline feature set and cross-check potential issues such as missing or mismatched headshots.
+
+### Example (DeepFace.analyze)
+```python
+from deepface import DeepFace
+
+img_path = "images/Jane_Doe.jpg"
+result = DeepFace.analyze(
+    img_path=img_path,
+    actions=["age", "gender"],
+    enforce_detection=True,  # set False if you prefer "best effort"
+)
+
+# DeepFace returns a dict (or a list of dicts depending on version/settings)
+print(result)
+```
 ## Baseline Models and Evaluation Strategy 
 
 We benchmark our models against a mean-prediction Dummy Regressor, which always predicts the average instructor rating in the training data. This provides a minimal reference point for assessing whether facial-attractiveness information adds predictive value. We then fit three baseline learners: Linear Regression and Ridge Regression, which test for linear associations (with Ridge adding regularization to stabilize estimates and reduce overfitting in a small sample with categorical controls), and HistGradientBoostingRegressor (HistGBR), a gradient-boosted tree model included to capture potential nonlinearities and interactions beyond linear specifications.
