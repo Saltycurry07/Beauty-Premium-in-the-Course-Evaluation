@@ -31,7 +31,7 @@
 ## Data
 Our latest dataset covers professors from six U.S. engineering schools/colleges, MIT School of Engineering, UCLA Samueli School of Engineering, USC Viterbi School of Engineering, UIUC Grainger College of Engineering, OSU College of Engineering, and WFU Department of Engineering, and primarily includes course-evaluation outcomes and faculty profile photos.
 
-![summary](Plots/output1.png)
+![summary](Plots/Week4-output1.png)
 
 ### RateMyProfessors Crawler
 
@@ -82,7 +82,7 @@ python beauty_score_from_csv.py \
 
 If images are relative paths, they will be resolved relative to the CSV file location. Any failures are logged to an `_errors.txt` file alongside the output CSV.
 
-![summary](Plots/output2.png)
+![summary](Plots/Week4-output2.png)
 ![MC](Plots/3312fbc6ae76128334cfdf244161cc90.png)
 
 ## Baseline Models and Evaluation Strategy 
