@@ -160,6 +160,3 @@ All models use the same feature set: the beauty score（1-5）inferred from prof
   - Adding course difficulty yields the largest improvement, indicating that course-related information is substantially more predictive of ratings than facial-attractiveness measures.
   ![CV MAE by experiment](model/evaluation/ridge_mae_controlled_experiments.png)
 
-  - Overall, the classification results reinforce the regression findings: course-related features add much more predictive value than beauty alone.
-![ROC-AUC by feature set](model/evaluation/controlled_binary_auc_logit_gnb_dummy.png)
-
