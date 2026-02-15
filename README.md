@@ -160,21 +160,6 @@ All models use the same feature set: the beauty score（1-5）inferred from prof
   - Adding course difficulty yields the largest improvement, indicating that course-related information is substantially more predictive of ratings than facial-attractiveness measures.
   ![CV MAE by experiment](model/evaluation/ridge_mae_controlled_experiments.png)
 
-- **Week 5 Controlled Experiments (Binary Classification Robustness Check)**
-  - **Outcome definition:** Convert `avg_rating` into a binary label using a median split (high vs. low rating).
-  - **Feature sets (controlled):**
-    - **F1:** beauty only
-    - **F2:** beauty + school indicators
-    - **F3:** F2 + age and gender
-    - **F4:** F3 + course difficulty
-  - **Models:** DummyMostFrequent, Logistic Regression, and Gaussian Naive Bayes.
-  - **What is held constant:** same cleaned sample (N = 532), same preprocessing pipeline, same 5-fold Stratified CV (same seed), and the same classification metrics.
-  - **What changes:** only the feature set (F1 → F4). This checks whether conclusions are robust to an alternative outcome formulation.
-
-- **Week 5 Results and Interpretation (Binary Classification)**
-  - Logistic Regression performs best overall, especially after adding difficulty, suggesting that difficulty is a strong discriminator between high- and low-rated instructors.
-  - GaussianNB improves with richer features but remains less stable than Logistic Regression.
-  - DummyMostFrequent stays around chance-level performance, serving as a sanity-check baseline.
   - Overall, the classification results reinforce the regression findings: course-related features add much more predictive value than beauty alone.
 ![ROC-AUC by feature set](model/evaluation/controlled_binary_auc_logit_gnb_dummy.png)
 
