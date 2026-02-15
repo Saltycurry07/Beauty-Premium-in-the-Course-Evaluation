@@ -160,3 +160,14 @@ All models use the same feature set: the beauty score（1-5）inferred from prof
   - Adding course difficulty yields the largest improvement, indicating that course-related information is substantially more predictive of ratings than facial-attractiveness measures.
   ![CV MAE by experiment](model/evaluation/ridge_mae_controlled_experiments.png)
 
+- **Week 6 Controlled Experiments Results**
+  - We report an updated 5-fold cross-validated performance for each model across controlled specifications. Each cell is **MAE / RMSE / R²**.
+
+| model            | E1_beauty_only         | E2_beauty_schoolFE     | E3_add_age_gender      | E4_add_difficulty      |
+|:-----------------|:-----------------------|:-----------------------|:-----------------------|:-----------------------|
+| DummyMean        | 0.967 / 1.151 / -0.007 | 0.967 / 1.151 / -0.007 | 0.967 / 1.151 / -0.007 | 0.967 / 1.151 / -0.007 |
+| HistGBR          | 1.006 / 1.205 / -0.104 | 0.992 / 1.203 / -0.100 | 1.031 / 1.257 / -0.200 | 0.935 / 1.178 / -0.060 |
+| LinearRegression | 0.968 / 1.153 / -0.010 | 0.969 / 1.155 / -0.013 | 0.967 / 1.156 / -0.017 | 0.850 / 1.059 / 0.144  |
+| Ridge(alpha=1.0) | 0.968 / 1.153 / -0.010 | 0.969 / 1.154 / -0.012 | 0.966 / 1.156 / -0.016 | 0.850 / 1.059 / 0.145  |
+
+
