@@ -170,4 +170,20 @@ All models use the same feature set: the beauty score（1-5）inferred from prof
 | LinearRegression | 0.968 / 1.153 / -0.010 | 0.969 / 1.155 / -0.013 | 0.967 / 1.156 / -0.017 | 0.850 / 1.059 / 0.144  |
 | Ridge(alpha=1.0) | 0.968 / 1.153 / -0.010 | 0.969 / 1.154 / -0.012 | 0.966 / 1.156 / -0.016 | 0.850 / 1.059 / 0.145  |
 
+- **Week 6 Subgroup Analysis**
+  - **Goal:** Test whether the predictive role of **beauty** varies by context.
+  - **Method:** Split the dataset by subgroup and, **within each subgroup**, run the **same Ridge regression (α = 1.0)** with the **same 5-fold CV** procedure as in the main analysis.
+  - **Splits:**
+    - **School:** analyzed separately by institution.
+    - **Gender:** male vs female.
+    - **Age group:** <40 (younger), 40–49 (middle-aged), ≥50 (older).
+    - **Difficulty:** low (<3), mid (3–4), high (>=4).
+
+  - **Key findings (heterogeneity):**
+    - **Across schools:** performance varies substantially—R² ≈ **0.20 (USC)** and **0.11 (UIUC)**, but **near zero or negative** for **MIT** and **UCLA**, indicating inconsistent generalization across institutions.
+    - **Across gender:** performance is similar—R² ≈ **0.13 (male)** vs **0.10 (female)**; MAE/RMSE differences are small → limited gender-based heterogeneity.
+    - **Across age:** predictive strength declines with age and becomes **negative for ≥50**, with slightly higher MAE/RMSE → weaker fit for older professors.
+    - **Across difficulty:** signal is somewhat stronger in **mid difficulty (R² ≈ 0.09)** with modestly lower MAE/RMSE, but **negative** in **low** and **high** difficulty groups → errors remain close to baseline.
+
+  - **Takeaway:** Beauty’s predictive contribution remains **small** overall and appears **context-dependent** rather than stable across subgroups.
 
