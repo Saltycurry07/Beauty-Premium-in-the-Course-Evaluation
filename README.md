@@ -187,3 +187,11 @@ All models use the same feature set: the beauty score（1-5）inferred from prof
 
   - **Takeaway:** Beauty’s predictive contribution remains **small** overall and appears **context-dependent** rather than stable across subgroups.
 
+
+  | School | Gender |
+  |---|---|
+  | ![](Plots/Week6_mae_by_school.png) | ![](Plots/Week6_mae_by_gender.png) |
+
+  | Age | Difficulty |
+  |---|---|
+  | ![](Plots/Week6_mae_by_age_group.png) | ![](Plots/Week6_mae_by_difficulty_group.png) |
