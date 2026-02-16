@@ -121,11 +121,13 @@ All models use the same feature set: the beauty score（1-5）inferred from prof
   - **Ridge vs. OLS:** Ridge performs marginally better, consistent with regularization stabilizing estimates in a small-sample setting.
   - **R² (cross-validated):** remains negative, suggesting the current inputs, primarily raw beauty score + categorical controls (school, department), explain limited out-of-sample variation in RMP ratings.
   - **HistGBR (tree baseline):** does not outperform the mean baseline, indicating little evidence of robust non-linear patterns given current features and sample size.
+  
 
-![CV results](model/evaluation/MAE_mean.png)
-![CV results](model/evaluation/RMSE_mean.png)
-![CV results](model/evaluation/R2_mean.png)
+  | MAE | RMSE | R2 |
+  |---|---|---|
+  | ![CV results](model/evaluation/MAE_mean.png) | ![CV results](model/evaluation/RMSE_mean.png) | ![CV results](model/evaluation/R2_mean.png) |
 
+  
 - **Week 4 Controlled Experiment**
   - **E1 (beauty only)**  
   avg_rating_i = β0 + β1 · beauty_i + ε_i
@@ -141,9 +143,9 @@ All models use the same feature set: the beauty score（1-5）inferred from prof
   - Cross-validated **R² is close to zero or negative**, indicating the models often do no better than predicting the average rating.
   - Adding **school fixed effects** does **not** improve predictive accuracy and can slightly worsen out-of-sample generalization in some specifications.
 
-![CV results](model/evaluation/cv_mae_by_experiment.png)
-![CV results](model/evaluation/cv_rmse_by_experiment.png)
-![CV results](model/evaluation/cv_r2_by_experiment.png)
+  | MAE | RMSE | R2 |
+  |---|---|---|
+  | ![CV results](model/evaluation/cv_mae_by_experiment.png) | ![CV results](model/evaluation/cv_rmse_by_experiment.png) | ![CV results](model/evaluation/cv_r2_by_experiment.png) |
 
 - **Week 5 Controlled Experiments (Regression)**
   - **E1 (beauty only):** Use the beauty score as the only predictor of `avg_rating`.
