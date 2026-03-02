@@ -82,9 +82,6 @@ python beauty_score_from_csv.py \
 
 If images are relative paths, they will be resolved relative to the CSV file location. Any failures are logged to an `_errors.txt` file alongside the output CSV.
 
-![summary](Plots/Week4_output2.png)
-![MC](Plots/Week4_(3).png)
-
 ## Facial Attribute Inference (DeepFace)
 
 We use **DeepFace** (link:https://github.com/serengil/deepface?tab=readme-ov-file) to infer additional covariates from faculty profile photos. Specifically, we apply the `DeepFace.analyze` function to predict **age** and **gender** from each headshot and then merge these outputs back to our tabular dataset by professor name / photo filename.
