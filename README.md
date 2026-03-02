@@ -59,12 +59,6 @@ Input: a headshot image file (downloaded from each school’s faculty directory)
 
 Output: a continuous beauty score 
 
-### Notes
-
-If image_path is relative, paths are resolved relative to the CSV location.
-
-Failed reads / inference are recorded in an _errors.txt file alongside the output CSV.
-
 
 ## Facial Attribute Inference (DeepFace)
 
