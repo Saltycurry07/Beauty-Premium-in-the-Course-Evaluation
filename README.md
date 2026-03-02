@@ -165,7 +165,7 @@ We implemented a deep learning–based model (link: https://github.com/stekhn/av
 
 We benchmark our models against a mean-prediction Dummy Regressor, which always predicts the average instructor rating in the training data. This provides a minimal reference point for assessing whether facial-attractiveness information adds predictive value. We then fit three baseline learners: Linear Regression and Ridge Regression, which test for linear associations (with Ridge adding regularization to stabilize estimates and reduce overfitting in a small sample with categorical controls), and HistGradientBoostingRegressor (HistGBR), a gradient-boosted tree model included to capture potential nonlinearities and interactions beyond linear specifications.
 
-All models use the same feature set: the beauty score（1-5）inferred from profile photos, plus the categorical indicator for school. Performance is evaluated primarily using MAE, with RMSE and R² reported as complementary metrics.
+All models use the same feature set: a beauty score (1–5) inferred from profile photos, school indicator variables, demographic attributes (age and gender), and course difficulty. We evaluate performance primarily with MAE, and report RMSE and R² as complementary metrics.
 
 ## Baseline Models Performance
 
