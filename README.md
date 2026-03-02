@@ -8,8 +8,7 @@
 
   Do physcially (facially) attractive professors receive more favorable student evaluations? 
   
-  This project builds a machine-learning pipeline that predicts professors’ course evaluation outcomes from facial images. We will construct a biographical dataset of professors from several U.S. universities, combining portrait photos with third-party evaluation measures from RateMyProfessors (RMP). Using an established deep-learning model (Liang et al., 2018) for facial attractiveness prediction, we will generate a standardized “beauty score” for each professor and link it to their RMP ratings. 
-  We will then train and compare multiple predictive models, such as linear regression with regularization (Ridge/Lasso), logistic regression (for high- vs. low-rating classification), and gradient-boosted trees (e.g., XGBoost), to assess predictive performance and identify the most suitable approach for this task.
+  This project builds a machine-learning pipeline to predict professors’ course evaluation outcomes from facial images. We construct a biographical dataset of faculty from several U.S. universities by pairing publicly available portrait photos with third-party evaluation measures from RateMyProfessors (RMP). Using an established deep-learning model for facial attractiveness prediction (Liang et al., 2018), we generate a standardized beauty score for each professor and link it to their RMP ratings. We then train and compare multiple predictive models—including OLS, Ridge regression, and histogram-based gradient-boosted trees (HistGBR), to assess predictive performance and determine which approach is most suitable for this task.
 
 ## Division of Responsibilities
 
