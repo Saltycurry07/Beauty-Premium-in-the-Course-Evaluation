@@ -48,20 +48,33 @@ Please refer to the latest version of data [here](Data/RMP-Data/rmp_engineering_
 
 Please refer to the latest version of data through this link: https://drive.google.com/drive/folders/1rZJVfmevApVX-XWipRbNk7OwWT1ggDXz?usp=sharing.
 
-## SCUT-FBP5500 Beauty Score Inference (CSV)
+## SCUT-FBP5500: A pre-trained model to generate Beauty Score 
 
-This repo includes a script that loads the pretrained SCUT-FBP5500 PyTorch models and appends a `beauty_score` column to a CSV containing image paths.
+This repository contains our research-oriented inference pipeline built on the pretrained PyTorch models released with **SCUT-FBP5500**. The script operationalizes facial attractiveness as a continuous numerical measure and appends a `beauty_score` column to a structured CSV dataset of professor portraits.
 
-### 1) Download the pretrained model
+This tool was developed as part of our final project examining whether perceived facial attractiveness predicts student course evaluations, conditional on demographic and institutional controls. The output of this pipeline serves as the quantitative input for downstream statistical modeling.
 
-From the official SCUT-FBP5500 release: https://github.com/HCIILAB/SCUT-FBP5500-Database-Release
 
-- Download the **PyTorch** trained models archive and extract it locally.
-- Choose one of the `.pth` files, such as `alexnet.pth` or `resnet18.pth`.
+### 1) Model Source and Selection
 
-### 2) Prepare your CSV
+We use the pretrained PyTorch models provided in the official SCUT-FBP5500 release:
 
-Your CSV should include a column with image paths. For example:
+[https://github.com/HCIILAB/SCUT-FBP5500-Database-Release](https://github.com/HCIILAB/SCUT-FBP5500-Database-Release)
+
+Procedure:
+
+* Download the pretrained **PyTorch** model archive.
+* Extract locally.
+* Select a backbone architecture (e.g., `alexnet.pth` or `resnet18.pth`).
+
+In our empirical analysis, the model output is treated as a continuous *raw beauty score*, prior to within-school normalization.
+
+
+### 2) Input Data Structure
+
+The script expects a CSV file containing portrait image paths. The unit of analysis is the **individual professor**.
+
+Example schema:
 
 ```csv
 name,image_path
@@ -69,7 +82,15 @@ Professor A,/path/to/image_a.jpg
 Professor B,/path/to/image_b.jpg
 ```
 
-### 3) Run inference
+Requirements:
+
+* Images must contain a clearly identifiable human face.
+* Non-face images (e.g., logos, abstract graphics) should be removed prior to inference.
+* Relative paths are resolved with respect to the CSV location.
+
+Image preprocessing and invalid-photo filtering are handled separately in our data-cleaning pipeline.
+
+### 3) Running Beauty Score Inference
 
 ```bash
 python beauty_score_from_csv.py \
@@ -80,7 +101,34 @@ python beauty_score_from_csv.py \
   --output-csv professors_with_scores.csv
 ```
 
-If images are relative paths, they will be resolved relative to the CSV file location. Any failures are logged to an `_errors.txt` file alongside the output CSV.
+Output:
+
+* A new CSV file containing the original variables plus:
+
+  * `beauty_score` (continuous model output)
+* An `_errors.txt` log documenting failed image loads or inference issues.
+
+
+### 4) Methodological Positioning
+
+Within our study design:
+
+* The SCUT-FBP5500 output is treated as a **machine-generated perceptual proxy** for facial attractiveness.
+* Raw scores are subsequently normalized within **school × gender subgroups** to mitigate institutional and compositional heterogeneity.
+* The resulting standardized beauty measure is incorporated into regression models predicting course ratings.
+
+Importantly, this pipeline provides a **predictive measurement layer**, not a causal identification strategy. All downstream statistical analyses explicitly control for observable covariates (e.g., age, gender, difficulty level) and interpret coefficients associationally.
+
+
+### 5) Reproducibility
+
+All preprocessing, normalization, and modeling steps are documented in the main project repository. This script is modular and can be adapted to:
+
+* Alternative pretrained architectures
+* Expanded institutional samples
+* Additional feature extraction workflows
+
+The objective is transparent, reproducible operationalization of facial attractiveness in large-scale observational data.
 
 ## Facial Attribute Inference (DeepFace)
 
