@@ -50,7 +50,7 @@ Please refer to the latest version of data through this link: https://drive.goog
 
 ## Beauty Score Inference (**SCUT-FBP5500**)
 
-We use the pretrained SCUT-FBP5500 PyTorch models (link:https://github.com/HCIILAB/SCUT-FBP5500-Database-Release
+We use the pretrained SCUT-FBP5500  model (link:https://github.com/HCIILAB/SCUT-FBP5500-Database-Release
 ) to generate a continuous raw beauty score from each faculty headshot. 
 
 ### What we run
@@ -59,6 +59,8 @@ Input: a headshot image file (downloaded from each school’s faculty directory)
 
 Output: a continuous beauty score 
 
+### Note
+Since photo style and quality differ across schools, we normalized beauty scores within each school and gender subgroup, assigning a continuous 1–5 beauty level according to each professor’s rank within their school–gender group.
 
 ## Facial Attribute Inference (DeepFace)
 
