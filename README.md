@@ -62,6 +62,11 @@ Output: a continuous beauty score
 ### Note
 Since photo style and quality differ across schools, we normalized beauty scores within each school and gender subgroup, assigning a continuous 1–5 beauty level according to each professor’s rank within their school–gender group.
 
+### Sample
+This shows what the basic database should look like, you should store the photos, csv file, and models in the same folder:
+[Sample Data](Data/Beauty-Data/sampledata.csv)
+
+
 ## Facial Attribute Inference (DeepFace)
 
 We use **DeepFace** (link:https://github.com/serengil/deepface?tab=readme-ov-file) to infer additional covariates from faculty profile photos. Specifically, we apply the `DeepFace.analyze` function to predict **age** and **gender** from each headshot and then merge these outputs back to our tabular dataset by professor name / photo filename.
