@@ -48,18 +48,16 @@ Please refer to the latest version of data [here](Data/RMP-Data/rmp_engineering_
 
 Please refer to the latest version of data through this link: https://drive.google.com/drive/folders/1rZJVfmevApVX-XWipRbNk7OwWT1ggDXz?usp=sharing.
 
-## Beauty Score Inference (SCUT-FBP5500)
+## Beauty Score Inference (**SCUT-FBP5500**)
 
 We use the pretrained SCUT-FBP5500 PyTorch models (link:https://github.com/HCIILAB/SCUT-FBP5500-Database-Release
-) to generate a continuous raw beauty score from each faculty headshot. We run batch inference over a CSV of image paths and append the resulting beauty_score back to our tabular dataset (matched by photo filename / professor identifier).
+) to generate a continuous raw beauty score from each faculty headshot. 
 
 ### What we run
 
 Input: a headshot image file (downloaded from each school’s faculty directory).
 
-Output: a continuous beauty_score plus a status flag (and optional error log) indicating whether inference succeeded.
-
-Purpose: operationalize facial attractiveness at scale as a standardized model-based measure for downstream analysis.
+Output: a continuous beauty score 
 
 ### Notes
 
