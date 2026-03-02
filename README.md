@@ -29,7 +29,7 @@
   - Draft the report and visualize key results
 
 ## Data
-Our latest dataset covers professors from six U.S. engineering schools/colleges, MIT School of Engineering, UCLA Samueli School of Engineering, USC Viterbi School of Engineering, UIUC Grainger College of Engineering, OSU College of Engineering, and WFU Department of Engineering, and primarily includes course-evaluation outcomes and faculty profile photos.
+Our latest dataset covers professors from five U.S. engineering schools/colleges, **MIT School of Engineering**, **UCLA Samueli School of Engineering**, **USC Viterbi School of Engineering**, **UIUC Grainger College of Engineering**, and **WFU Department of Engineering**, and primarily includes course-evaluation outcomes and faculty profile photos.
 
 ![summary](Plots/Week4_output1.png)
 
