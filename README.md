@@ -32,7 +32,7 @@ Our latest dataset covers professors from six U.S. engineering schools/colleges,
 
 ![summary](Plots/Week4_output1.png)
 
-### RateMyProfessors Crawler
+### RateMyProfessors Scraper
 
 This repository includes a [crawler script](Data/RMP-Data/rmp_crawler_new.py) that fetches professor ratings from RateMyProfessors and writes them to a CSV file.
 
