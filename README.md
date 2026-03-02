@@ -15,8 +15,9 @@
 ### Kuang Sheng
 - **Primary responsibilities**
   - Web-scrape faculty profile photos from university/department websites
-  - Train predictive models (logistic regression; gradient-boosted trees such as XGBoost)
-  - Evaluate model performance (e.g., MAE/RMSE/AUC; cross-validation as needed)
+  - Apply a pre-trained facial attribute model to infer professors’ demographic attributes (e.g., age and gender).
+  - Train predictive models (linear regression; gradient-boosted trees such as HistGBR)
+  - Evaluate model performance (e.g., MAE/RMSE/R²; five-fold cross-validation)
   - Draft the report and visualize key results
 
 
