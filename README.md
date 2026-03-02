@@ -175,7 +175,7 @@ All models use the same feature set: the beauty score（1-5）inferred from prof
   - **Splits:**
     - **School:** analyzed separately by institution.
     - **Gender:** male vs female.
-    - **Age group:** <40 (younger), 40–49 (middle-aged), ≥50 (older).
+    - **Age group:** <35 (younger), 35–49 (middle-aged), ≥50 (older).
     - **Difficulty:** low (<3), mid (3–4), high (>=4).
 
   - **Key findings (heterogeneity):**
